@@ -20,8 +20,6 @@ permalink: "posts/:title"
 collections:
   partners:
     output: true
-  team:
-    output: true
   categories:
     output: true
   testimonials:
