@@ -1,14 +1,12 @@
-- name: Stella Price
-  email: stella@seeranetworks.com
-  title: Personal Real Estate Corporation
-  phoneCell: '604-833-7725'
-  phoneOffice: '604-415-2908'
-  email: 'erin@seeranetworks.com'
+- name: Erin Emery
+  email: erin@seeranetworks.com
+  title: Founder
+  phoneCell: 604-767-7725
+  phoneOffice: 604-445-7262
   profile_image_path: /images/person.png
 - name: Erin Price
   email: erin@seeranetworks.com
   title: Personal Real Estate Corporation
-  phoneCell: '604-833-7725'
-  phoneOffice: '604-415-2908'
-  email: 'erin@seeranetworks.com'
+  phoneCell: 604-833-7725
+  phoneOffice: 604-415-2908
   profile_image_path: /images/person.png
