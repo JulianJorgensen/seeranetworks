@@ -1,4 +1,4 @@
 ---
-title: Real Estate Agents
+title: Real Estate
 category: realestate
 ---

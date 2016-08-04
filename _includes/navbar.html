@@ -16,7 +16,7 @@
     <li {% if page.url == "/" %}class="active"{% endif %}><a href="/">Our story</a></li>
 
     <li class="accordion" {% if page.layout == 'category' %}class="active"{% endif %}>
-      <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking partners <span class="chevron"></span></a>
+      <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
       <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
         <ul>
           {% assign categories = site.categories | where:'category', '' %}
