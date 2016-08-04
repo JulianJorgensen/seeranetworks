@@ -1,5 +1,0 @@
----
-active: true
-author: ""
-description: ""
----
