@@ -13,41 +13,40 @@
     </header>
 
   <ul class="nav">
-    <li {% if page.url == "/" %}class="active"{% endif %}><a href="/">Our story</a></li>
-    <li {% if page.url == "/team" %}class="active"{% endif %}><a href="/team">Our team</a></li>
+    {% for item in site.data.nav %}
+      {% if item.url == "network" %}
+        <li class="accordion" {% if page.layout == 'category' %}class="active"{% endif %}>
+          <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
+          <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
+            <ul>
+              {% assign categories = site.categories | where:'category', '' %}
+              {% for category in categories %}
 
-    <li class="accordion" {% if page.layout == 'category' %}class="active"{% endif %}>
-      <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
-      <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
-        <ul>
-          {% assign categories = site.categories | where:'category', '' %}
-          {% for category in categories %}
+                {% assign categoryTitle = category.title | downcase | replace:" ","" %}
 
-            {% assign categoryTitle = category.title | downcase | replace:" ","" %}
+                {% assign subcategories = site.categories | where:'category',categoryTitle %}
+                {% if subcategories.size > 0 %}
+                  {% assign hasSubcategories = true %}
+                {% endif %}
 
-            {% assign subcategories = site.categories | where:'category',categoryTitle %}
-            {% if subcategories.size > 0 %}
-              {% assign hasSubcategories = true %}
-            {% endif %}
+                <li {% if hasSubcategories %}class="accordion"{% endif %}{% if category.title == page.title %}class="active"{% endif %}>
+                  <a {% if hasSubcategories %}class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}"{% else %}href="/categories/{{ categoryTitle }}"{% endif %}>{{ category.title }} <span class="chevron"></span></a>
+                  <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
+                    {% assign subcategories = site.categories | where:'category', categoryTitle %}
+                    {% for subcategory in subcategories  %}
+                      <li {% if subcategory.title == page.title %}class="active"{% endif %}><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
 
-            <li {% if hasSubcategories %}class="accordion"{% endif %}{% if category.title == page.title %}class="active"{% endif %}>
-              <a {% if hasSubcategories %}class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}"{% else %}href="/categories/{{ categoryTitle }}"{% endif %}>{{ category.title }} <span class="chevron"></span></a>
-              <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
-                {% assign subcategories = site.categories | where:'category', categoryTitle %}
-                {% for subcategory in subcategories  %}
-                  <li {% if subcategory.title == page.title %}class="active"{% endif %}><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
-                {% endfor %}
-              </ul>
-            </li>
-
-            {% assign hasSubcategories = false %}
-          {% endfor %}
-        </ul>
-      </div>
-    </li>
-
-    {% assign pages_list = site.pages | sort:"weight" %}
-    {% assign group = 'navigation' %}
-    {% include pages_list.html %}
+                {% assign hasSubcategories = false %}
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+      {% else %}
+        <li {% if page.url == item.url %}class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </aside>
