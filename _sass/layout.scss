@@ -54,6 +54,7 @@ body{
   display: none;
 }
 
-.cms-editor-active .editor-link {
+.cms-editor-active .editor-link,
+.client-interface .editor-link {
   display: block;
 }
