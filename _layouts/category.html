@@ -5,10 +5,10 @@ layout: default
 {% assign filename = page.url | replace: '/', '' | replace: 'categories', '' | replace: '.html', '.md' %}
 <h1>{{ page.title }} <a class="btn btn-warning editor-link" href="cloudcannon:collections/_categories/{{ filename }}">Edit category</a></h1>
 
-<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_partners/">Add/edit partners</a></p>
+<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit partners</a></p>
 
 {% assign pageCategory = page.title | downcase | replace:" ","" %}
-{% assign collection = site.partners | where:'category', pageCategory | sort: "weight" %}
+{% assign collection = site.members | where:'category', pageCategory | sort: "weight" %}
 <ul class="partner-category-group">
   {% for item in collection %}
     {% if item.active %}
@@ -46,8 +46,8 @@ layout: default
         </div>
         <div class="col-xs-12">
           <hr class="editor-link">
-          {% assign partnerFilename = item.url | replace: '/', '' | replace: 'partners', '' | replace: '.html', '.md' %}
-          <a class="btn btn-block btn-warning editor-link" href="cloudcannon:collections/_partners/{{ partnerFilename }}">Edit partner</a>
+          {% assign memberFilename = item.url | replace: '/', '' | replace: 'partners', '' | replace: '.html', '.md' %}
+          <a class="btn btn-block btn-warning editor-link" href="cloudcannon:collections/_members/{{ memberFilename }}">Edit partner</a>
         </div>
       </div>
     </li>
@@ -55,4 +55,4 @@ layout: default
   {% endfor %}
 </ul>
 
-<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_partners/">Add/edit partners</a></p>
+<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit partners</a></p>

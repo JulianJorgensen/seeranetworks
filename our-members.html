@@ -6,18 +6,17 @@ group: navigation
 weight: 1
 ---
 
-<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_partners/">Add/edit members</a></p>
+<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit members</a></p>
 
-{% assign collection = site.partners | sort: "contactName" %}
+{% assign collection = site.members | sort: "contactName" %}
 
 <div class="row our-members">
   <div class="col-lg-12">
   {% for item in collection %}
-    <div class="row member">
-      <div class="col-xs-4 col-sm-2">
-        <div class="profile-image" style="background-image:url({{ item.profile_image_path }});"></div>
-      </div>
-      <div class="col-xs-8 col-sm-4">
+    <div class="member">
+      <div class="profile-image" style="background-image:url({{ item.profile_image_path }});"></div>
+
+      <div class="profile-info">
         <h5 class="no-spacing"><strong>{{ item.contactName }}</strong></h5>
         <ul>
           {% if item.contactTitle %}<li>{{ item.contactTitle }}</li>{% endif %}
@@ -26,11 +25,11 @@ weight: 1
           {% if item.email %}<li><i class="fa fa-envelope"></i> <a href="mailto:{{ item.email }}">{{ item.email }}</a></li>{% endif %}
         </ul>
         {% assign partnerFilename = item.url | replace: '/', '' | replace: 'partners', '' | replace: '.html', '.md' %}
-        <a class="btn btn-warning editor-link" href="cloudcannon:collections/_partners/{{ partnerFilename }}">Edit member</a>
+        <a class="btn btn-warning editor-link" href="cloudcannon:collections/_members/{{ partnerFilename }}">Edit member</a>
       </div>
     </div>
   {% endfor %}
   </div>
 </div>
 
-<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_partners/">Add/edit members</a></p>
+<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit members</a></p>
