@@ -24,10 +24,8 @@
 
                 {% assign categoryTitle = category.title | downcase | replace:" ","" %}
 
-                {% assign subcategories = site.categories | where:'category',categoryTitle %}
-                {{ categoryTitle }}
-                {{ subcategories.size }}
-                {% if subcategories.size > 0 %}
+                {% assign subcategories = site.categories %}
+                {% if subcategories.category == categoryTitle %}
                   {% assign hasSubcategories = true %}
                 {% endif %}
 
