@@ -19,8 +19,8 @@
           <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
           <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
             <ul>
-              {% assign categories = site.data.categories %}
-              {% for category in categories %}
+              {% assign primary_categories = site.data.categories %}
+              {% for category in primary_categories %}
 
                 {% assign categoryTitle = category.title | downcase | replace:" ","" %}
 
