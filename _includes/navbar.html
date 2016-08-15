@@ -24,13 +24,8 @@
 
                 {% assign categoryTitle = category.title | downcase | replace:" ","" %}
 
-                {% assign subcategories = site.categories %}
-                {% if subcategories.category == categoryTitle %}
-                  {% assign hasSubcategories = true %}
-                {% endif %}
-
-                <li {% if hasSubcategories %}class="accordion"{% endif %}{% if category.title == page.title %}class="active"{% endif %}>
-                  <a {% if hasSubcategories %}class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}"{% else %}href="/categories/{{ categoryTitle }}"{% endif %}>{{ category.title }} <span class="chevron"></span></a>
+                <li class="accordion {% if category.title == page.title %}active{% endif %}">
+                  <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
                   <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
                     {% assign subcategories = site.categories | where:'category', categoryTitle %}
                     {% for subcategory in subcategories  %}
@@ -38,8 +33,6 @@
                     {% endfor %}
                   </ul>
                 </li>
-
-                {% assign hasSubcategories = false %}
               {% endfor %}
             </ul>
           </div>
