@@ -1,12 +1,14 @@
 ---
 active: true
 title: Leah
-category:
-phoneOffice:
-contactName:
-email:
+category: accountant
+phoneOffice: '6040000000'
+contactName: Leah Zeballos
+email: email@email.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/leah z.jpg
 ---
+
+
