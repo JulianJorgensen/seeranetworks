@@ -12,6 +12,8 @@
         </div>
     </header>
 
+    {{ site.categories }}
+
   <ul class="nav">
     {% for item in site.data.nav %}
       {% if item.url == "network" %}
@@ -27,7 +29,6 @@
                 <li class="accordion {% if category.title == page.title %}active{% endif %}">
                   <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
                   <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
-                    {{ site.categories }}
                     {% for subcategory in site.categories %}
                     {{ categoryTitle }} - {{ subcategory.category }}
                       {% if subcategory.category == categoryTitle %}
