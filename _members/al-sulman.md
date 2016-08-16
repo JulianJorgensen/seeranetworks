@@ -1,6 +1,6 @@
 ---
 active: true
-title: Sutton Group West Coast Realty
+title: Sutton Grp West Coast Realty
 category:
 phoneOffice: 604-328-2535
 contactName: Al Suleman
