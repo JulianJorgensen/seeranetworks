@@ -1,9 +1,9 @@
 ---
 active: true
-title: ""
+name: ""
+company: ""
 category: ""
 phoneOffice: ""
-contactName: ""
 email: ""
 image_path: ""
 color: ""
