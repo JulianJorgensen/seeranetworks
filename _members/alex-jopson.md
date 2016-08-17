@@ -1,7 +1,7 @@
 ---
 active: true
 name: Alex Jopson
-company: Sutton Grp Westcoast Realty
+company: Sutton Grp West Coast Realty
 category:
 phoneOffice: 604-626-1483
 email: alex@citytosuburb.ca
