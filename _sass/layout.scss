@@ -49,6 +49,33 @@ body{
 
 }
 
+// google translate
+#google_translate_element{
+  position: absolute;
+  top: 0;
+  right: 20px;
+  opacity: 0.8;
+
+  .goog-te-gadget-icon{
+    display: none;
+  }
+
+  .goog-te-gadget-simple{
+    padding: 5px 10px;
+    background-color: darken($brand-primary, 10%);
+    border: 0;
+    .goog-te-menu-value{
+      color: $white;
+    }
+  }
+}
+.goog-te-menu-frame{
+  .goog-te-menu2{
+    background-color: darken($brand-primary, 10%);
+  }
+}
+
+
 // CLOUD CANNON CMS STYLES
 .editor-link {
   display: none;

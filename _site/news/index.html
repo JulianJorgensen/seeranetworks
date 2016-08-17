@@ -33,8 +33,7 @@
       <div class="row">
         <a href="/">
           <div class="col-xs-8 col-sm-12 logo">
-            <h1>SEERA</h1>
-            <h2>The art of networking</h2>
+            <img src="/images/logo.jpg" alt="Seera Networks logo" />
           </div>
         </a>
         <div class="col-xs-4 visible-xs text-right">
@@ -742,7 +741,36 @@
     <h1>News</h1>
 
     <main class="main-content">
-      
+      <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_news/">Add/edit news</a></p>
+
+<div class="row">
+  <div class="col-lg-8">
+    <ul class="posts">
+    
+      <li>
+        <h3><a href="/news/2016-01-05-testing">News one</a></h3>
+        <p>This is a test 2 news</p>
+
+        
+        news2016-01-05-testing
+        <a class="btn btn-warning editor-link" href="cloudcannon:collections/_news/2016-01-05-news2016-01-05-testing.md">Edit post</a>
+      </li>
+    
+      <li>
+        <h3><a href="/news/2016-02-24-tester">News one</a></h3>
+        <p>This is a test news</p>
+
+        
+        news2016-02-24-tester
+        <a class="btn btn-warning editor-link" href="cloudcannon:collections/_news/2016-02-24-news2016-02-24-tester.md">Edit post</a>
+      </li>
+    
+    </ul>
+  </div>
+</div>
+
+<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_news/">Add/edit news</a></p>
+
     </main>
 
     <footer>
@@ -759,5 +787,17 @@
     <script>window.jQuery || document.write('<script src="/javascripts/jquery-1.11.3.min.js"><\/script>')</script>
     <script src="/javascripts/bootstrap.min.js"></script>
     <script src="/javascripts/main.js"></script>
+
+    <!-- Google translate -->
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        includedLanguages: 'ar,de,en,es,fr,hi,id,ja,ko,vi,zh-CN,zh-TW',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+      }, 'google_translate_element');
+    }
+    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   </body>
 </html>

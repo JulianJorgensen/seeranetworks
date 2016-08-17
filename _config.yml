@@ -23,12 +23,20 @@ collections:
     output: true
   testimonials:
     output: false
+  news:
+    output: true
 
 defaults:
   -
     scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "news"
     values:
       layout: "post"
   -

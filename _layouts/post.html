@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-
 <div class="row">
   <div class="col-lg-8">
     <div>
-      <p><a href="/blog/">&laquo; Back to blog</a></p>
-      <small>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</small>
+      <h3>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h3>
     </div>
 
     <article class="post-content">
       {{ content }}
     </article>
+
   </div>
 </div>
+
+<p><a href="/blog/" class="btn btn-small btn-primary">&laquo; Back to blog</a></p>
 
 <a class="btn btn-block btn-lg btn-warning editor-link" href="cloudcannon:collections/_posts/{{ page.date | date: '%Y-%m-%d'}}-{{ page.url | replace: '/', '' | replace:"posts", "" }}.md">Edit post</a>
