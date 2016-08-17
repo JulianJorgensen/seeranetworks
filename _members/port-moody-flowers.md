@@ -9,5 +9,7 @@ email: portmoodyflowers@gmail.com
 image_path: /images/portmoodyflowers.png
 color: '#00e3d3'
 website: portmoodyflowers.ca
-profile_image_path: /images/Headshot.jpg
+profile_image_path:
 ---
+
+
