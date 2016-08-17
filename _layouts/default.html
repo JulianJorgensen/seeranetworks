@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-3 sidebar-left">
-          {% include navbar.html %}
-        </div>
-        <div class="col-sm-9 main-wrapper">
-          {{ content }}
+---
+layout: layout
+---
 
-          {% include footer.html %}
-        </div>
-      </div>
-    </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/javascripts/jquery-1.11.3.min.js"><\/script>')</script>
-    <script src="/javascripts/bootstrap.min.js"></script>
-    <script src="/javascripts/main.js"></script>
-  </body>
-</html>
+<div class="row">
+  <div class="col-sm-3 sidebar-left">
+    {% include navbar.html %}
+  </div>
+  <div class="col-sm-9 main-wrapper">
+    <h1>{{ page.title }}</h1>
+
+    <main class="main-content">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </div>
+</div>
