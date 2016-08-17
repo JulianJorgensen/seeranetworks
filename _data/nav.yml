@@ -4,6 +4,8 @@
   url: /team/
 - title: Our Members
   url: /our-members/
+- title: Pre-sale online
+  url: /presale/
 - title: Networking companies
   url: network
 - title: How to Join
@@ -12,5 +14,7 @@
   url: /contact-us/
 - title: Testimonials
   url: /testimonials/
+- title: News
+  url: /news/
 - title: Blog
   url: /blog/
