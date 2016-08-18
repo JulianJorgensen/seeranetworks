@@ -1,7 +1,7 @@
 ---
 active: true
 name: Bernie Bloomberg
-contactTitle: ""
+contactTitle: Real Estate
 company: Remax Masters Realty
 category: realestateagents
 phoneOffice: 778-888-6001
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
