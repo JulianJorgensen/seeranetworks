@@ -1,12 +1,14 @@
 ---
 active: true
 name: Jacquie McCarnan
-company:
-category:
-phoneOffice:
-email:
+company: Remax Masters Realty
+category: realestateagents
+phoneOffice: 604-764-0990
+email: jacquie@socialmedia-canada.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
