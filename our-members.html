@@ -20,7 +20,7 @@ weight: 1
         <h5 class="no-spacing"><strong>{{ item.name }}</strong></h5>
         <ul>
           {% if item.contactTitle %}<li>{{ item.contactTitle }}</li>{% endif %}
-          {% if item.company %}<li class="uc">{{ item.company }}</li>{% endif %}
+          {% if item.company %}<li class="uc small">{{ item.company }}</li>{% endif %}
           {% if item.phoneOffice %}<li class="uc">{{ item.phoneOffice }}</li>{% endif %}
           {% if item.email %}<li><i class="fa fa-envelope"></i> <a href="mailto:{{ item.email }}">{{ item.email }}</a></li>{% endif %}
         </ul>
