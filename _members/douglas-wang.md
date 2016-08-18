@@ -1,12 +1,14 @@
 ---
 active: true
 name: Douglas Wang
-company:
-category:
-phoneOffice:
-email:
+company: Remax 2000 Realty
+category: realestateagents
+phoneOffice: 604-300-6088
+email: douglas.wang63@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
