@@ -1,7 +1,7 @@
 ---
 active: true
 name: Danny Chaho
-contactTitle: ""
+contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 604-725-8895
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
