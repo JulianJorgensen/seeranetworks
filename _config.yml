@@ -13,7 +13,7 @@ markdown: kramdown
 version: 3.0.3
 
 # Pretty URL
-permalink: "posts/:title"
+# permalink: "posts/:title"
 
 # Collections
 collections:
@@ -36,15 +36,21 @@ defaults:
   -
     scope:
       path: ""
-      type: "news"
+      type: "categories"
+    values:
+      layout: "category"
+  -
+    scope:
+      path: ""
+      type: "testimonials"
     values:
       layout: "post"
   -
     scope:
       path: ""
-      type: "categories"
+      type: "news"
     values:
-      layout: "category"
+      layout: "post"
 
 # sass
 sass:
