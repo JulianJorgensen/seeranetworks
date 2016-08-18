@@ -1,15 +1,17 @@
 ---
 active: true
-name: 'Stella Price'
-company: 'Stella Price & Associates'
-phoneCell: '604-833-7725'
-phoneOffice: '604-415-2908'
-email: 'stella@stellaprice.com'
-category: realestate
-contactTitle: Personal Real Estate Corporation
+name: Stella Price PREC
+company: Sutton Grp West Coast Realty
+phoneCell: 604-833-7725
+phoneOffice:
+email: stella@stellaprice.com
+category: realestateagents
+contactTitle: 'Stella Price & Associates'
 image_path: /images/sutton.png
 color: '#c101c4'
-website: 'stellaprice.com'
+website: stellaprice.com
 address: '102-403 North Road, Coquitlam, BC'
 profile_image_path: /images/person.png
 ---
+
+
