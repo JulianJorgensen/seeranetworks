@@ -1,6 +1,7 @@
 ---
 active: true
 name: ""
+contactTitle: ""
 company: ""
 category: ""
 phoneOffice: ""
