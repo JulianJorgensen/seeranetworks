@@ -1,12 +1,14 @@
 ---
 active: true
 name: Joanne Jonathan
-company:
-category:
-phoneOffice:
-email:
+company: Magsen Realty Inc.
+category: realestateagents
+phoneOffice: 604-771-8143
+email: joannejonathan.mail@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
