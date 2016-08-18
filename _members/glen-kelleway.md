@@ -1,7 +1,7 @@
 ---
 active: true
 name: Glen Kelleway
-contactTitle: ""
+contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 604-767-4180
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
