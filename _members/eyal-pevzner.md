@@ -1,6 +1,7 @@
 ---
 active: true
 name: Eyal Pevzner
+contactTitle: ""
 company: Sutton Group West Coast Realty
 category: realestateagents
 phoneOffice: 778-991-9774
@@ -10,5 +11,3 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
-
-

@@ -1,6 +1,7 @@
 ---
 active: true
 name: David Yoo
+contactTitle: ""
 company: DOMINION LENDING
 category: mortgagebrokers
 phoneOffice: 604-910-6325

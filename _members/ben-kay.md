@@ -1,6 +1,7 @@
 ---
 active: true
 name: Ben Kay
+contactTitle: ""
 company: McDonald Realty
 category: realty
 phoneOffice: 604-710-5270

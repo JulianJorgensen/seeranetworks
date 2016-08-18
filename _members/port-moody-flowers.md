@@ -1,6 +1,7 @@
 ---
 active: true
 name: Celia Chiang
+contactTitle: ""
 company: Port Moody Flowers
 category: florist
 phoneOffice: 604-492-0880

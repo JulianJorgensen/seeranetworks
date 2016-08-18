@@ -1,6 +1,7 @@
 ---
 active: true
 name: Alex Jopson
+contactTitle: ""
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 604-626-1483
@@ -10,5 +11,3 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
-
-

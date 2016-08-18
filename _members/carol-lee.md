@@ -1,6 +1,7 @@
 ---
 active: true
 name: Carol Lee
+contactTitle: ""
 company: Homeland Realty
 category: realestateagents
 phoneOffice: 604-723-8789
@@ -10,5 +11,3 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
-
-

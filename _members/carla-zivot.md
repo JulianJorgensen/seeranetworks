@@ -1,6 +1,7 @@
 ---
 active: true
 name: Carla Zivot
+contactTitle: ""
 company: Remax City Realty
 category: realestateagents
 phoneOffice: 604-649-5063
@@ -10,5 +11,3 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
-
-

@@ -1,6 +1,7 @@
 ---
 active: true
 name: Jessica Chen PREC
+contactTitle: ""
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 604-771-0007
@@ -10,5 +11,3 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
-
-

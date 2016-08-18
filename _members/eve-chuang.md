@@ -1,6 +1,7 @@
 ---
 active: true
 name: Eve Chuang
+contactTitle: ""
 company: Macdonald Realty
 category: realestateagents
 phoneOffice: 778-881-9771
@@ -10,5 +11,3 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
-
-
