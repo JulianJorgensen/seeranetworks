@@ -1,7 +1,7 @@
 ---
 active: true
 name: Maurice Yu
-contactTitle: ""
+contactTitle: Real Estate
 company: Magsen Realty Inc
 category: realestateagents
 phoneOffice: 778-883-4833
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
