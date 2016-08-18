@@ -1,7 +1,7 @@
 ---
 active: true
 name: Douglas Wang
-contactTitle: ""
+contactTitle: Real Estate
 company: Remax 2000 Realty
 category: realestateagents
 phoneOffice: 604-300-6088
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
