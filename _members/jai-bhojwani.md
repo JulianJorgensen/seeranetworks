@@ -1,7 +1,7 @@
 ---
 active: true
 name: Jai Bhojwani
-contactTitle: ""
+contactTitle: Real Estate
 company: Luxmore Realty
 category: realestateagents
 phoneOffice: 778-885-9745
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
