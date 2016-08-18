@@ -1,7 +1,7 @@
 ---
 active: true
 name: Inneke Jonas
-contactTitle: ""
+contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 778-378-7074
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
