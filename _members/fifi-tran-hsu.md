@@ -1,10 +1,10 @@
 ---
-active: true
-name: Fifi Tran-Hsu
+active: false
+name: Frank Liu
 company: Sutton Grp West Coast Realty
 category: realestateagents
-phoneOffice: 778-772-2229
-email: fifih@sutton.com
+phoneOffice: 778-868-4016
+email: frank_liub@yahoo.com
 image_path:
 color:
 website:
