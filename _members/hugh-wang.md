@@ -1,7 +1,7 @@
 ---
 active: true
 name: Hugh Wang
-contactTitle: ""
+contactTitle: Real Estate
 company: New Coast Realty
 category: realestateagents
 phoneOffice: 604-374-1115
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
