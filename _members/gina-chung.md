@@ -1,13 +1,15 @@
 ---
 active: true
 name: Gina Chung
-contactTitle: ""
+contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 778-891-2642
-email: ginachungvan@gmail.com
+email: ginachung@yahoo.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
