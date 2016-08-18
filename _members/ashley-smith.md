@@ -1,7 +1,7 @@
 ---
 active: true
 name: Ashley Smith
-contactTitle: ""
+contactTitle: Real Estate
 company: Royal Lepage Sussex Klein Group
 category: realestateagents
 phoneOffice: 778-868-4915
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
