@@ -1,7 +1,7 @@
 ---
 active: true
 name: Dan Braun
-contactTitle: ""
+contactTitle: Real Estate
 company: Remax Select Realty
 category: realestateagents
 phoneOffice: 604-619-6005
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
