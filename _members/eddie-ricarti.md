@@ -1,7 +1,7 @@
 ---
 active: true
 name: Eddie Ricarti
-contactTitle: ""
+contactTitle: Real Estate
 company: Magsen Realty Inc.
 category: realestateagents
 phoneOffice: 604-679-4199
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
