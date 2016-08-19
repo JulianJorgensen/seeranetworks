@@ -1,7 +1,7 @@
 ---
 active: true
 name: Carolyn Rollo
-contactTitle: ""
+contactTitle: Real Estate
 company: Dexter Associates Realty
 category: realestateagents
 phoneOffice: 604-317-6556
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
