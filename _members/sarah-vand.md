@@ -1,13 +1,15 @@
 ---
 active: true
 name: Sarah Vand
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Group Seafair Realty
+category: realestateagents
+phoneOffice: 778-896-5010
+email: sarahvand@sutton.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
