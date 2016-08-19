@@ -1,7 +1,7 @@
 ---
 active: true
-name: Doc Livingston
-contactTitle: ""
+name: Doc Livingston PREC
+contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 category: realestateagents
 phoneOffice: 604-787-7028
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
