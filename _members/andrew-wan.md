@@ -1,7 +1,7 @@
 ---
 active: true
 name: Andrew Wan
-contactTitle: ""
+contactTitle: Real Estate
 company: Oakwyn Realty
 category: realestateagents
 phoneOffice: 604-762-1528
@@ -11,3 +11,5 @@ color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
