@@ -10,7 +10,8 @@ weight: 6
 
 <div class="testimonials">
   <div class="row">
-      {% for testimonial in site.data.testimonials %}
+      {% assign testimonials = site.data.testimonials | sort: 'date' %}
+      {% for testimonial in testimonials %}
       <div class="col-lg-8">
           <blockquote>
             <q>{{ testimonial.title }}</q>

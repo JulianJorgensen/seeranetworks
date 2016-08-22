@@ -27,3 +27,8 @@
 q {
   display: inline;
 }
+
+// no underline
+phone, li{
+  text-decoration: none !important;
+}
