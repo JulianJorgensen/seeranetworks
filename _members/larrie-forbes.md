@@ -1,13 +1,15 @@
 ---
 active: true
 name: Larrie Forbes
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Remax All Points Realty
+category: realestateagents
+phoneOffice: 604-805-7606
+email: forbesfocus@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
