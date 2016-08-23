@@ -9,7 +9,7 @@ email: carrie@carrieshaw.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/web.jpg
 ---
 
 
