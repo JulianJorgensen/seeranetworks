@@ -1,13 +1,15 @@
 ---
 active: true
 name: Scott Murray
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty
+category: realestateagents
+phoneOffice: 604-761-3900
+email: scottmurray@shaw.ca
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
