@@ -9,7 +9,7 @@ email: angiesun@royalpacific.com
 image_path:
 color:
 website:
-profile_image_path: /images/angie-s--web.jpg
+profile_image_path: /images/angie-s--web-2.jpg
 ---
 
 
