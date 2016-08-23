@@ -9,7 +9,7 @@ email: antonina.t@shaw.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/antinina-web.jpg
 ---
 
 
