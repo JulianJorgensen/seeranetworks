@@ -1,13 +1,15 @@
 ---
 active: true
-name: 'Stella Price & Associates'
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
-image_path:
+name: Stella Price
+contactTitle: Sutton Grp West Coast Realty
+company: 'Stella Price & Associates'
+category: realestateagents
+phoneOffice: 604-833-7725
+email: stella@stellaprice.com
+image_path: /images/sutton.png
 color:
-website:
+website: www.stellaprice.com
 profile_image_path: /images/person.png
 ---
+
+
