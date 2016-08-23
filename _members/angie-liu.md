@@ -7,7 +7,7 @@ category: realestateagents
 phoneOffice: 604-787-2727
 email: angieliu@shaw.ca
 color: '#00e3d3'
-profile_image_path: /images/angieliu.png
+profile_image_path: /images/angi-l--web.jpg
 ---
 
 
