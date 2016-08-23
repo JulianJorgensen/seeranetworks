@@ -9,7 +9,7 @@ email: alex@citytosuburb.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/headshot-web.jpg
 ---
 
 
