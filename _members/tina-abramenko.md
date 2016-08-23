@@ -1,13 +1,15 @@
 ---
 active: true
 name: Tina Abramenko
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty
+category: realestateagents
+phoneOffice: 778-868-7224
+email: tabramenko@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
