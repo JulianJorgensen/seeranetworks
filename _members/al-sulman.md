@@ -9,7 +9,7 @@ email: al@thebestsellers.ca
 image_path:
 color:
 website:
-profile_image_path: /images/head-shot--web.jpg
+profile_image_path: /images/head-shot.jpg
 ---
 
 
