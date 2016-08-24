@@ -9,7 +9,7 @@ email: hi@hollyli.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/holly-l--web.jpg
 ---
 
 
