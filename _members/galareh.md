@@ -9,7 +9,7 @@ email: zarrabi.g@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/galeria-z--web.jpg
 ---
 
 
