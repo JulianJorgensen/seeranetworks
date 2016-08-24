@@ -9,7 +9,7 @@ email: gary.terrado@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/gary-t--web.jpg
 ---
 
 
