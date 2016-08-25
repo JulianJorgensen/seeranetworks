@@ -9,7 +9,7 @@ email: jaribab@telus.net
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/irag-b--web.jpg
 ---
 
 
