@@ -9,7 +9,7 @@ email: asmith@kleingroup.com
 image_path:
 color:
 website:
-profile_image_path: /images/ashley-s---web.jpg
+profile_image_path: /images/asley-web.jpg
 ---
 
 
