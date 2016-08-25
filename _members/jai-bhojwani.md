@@ -9,7 +9,7 @@ email: jai.bhojwani@yahoo.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/jai-b--web.jpg
 ---
 
 
