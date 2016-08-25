@@ -9,7 +9,7 @@ email: mauriceyu@magsen.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/maurice-y--web.jpg
 ---
 
 
