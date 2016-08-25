@@ -9,7 +9,7 @@ email: tanttruong@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/tan-web.jpg
 ---
 
 
