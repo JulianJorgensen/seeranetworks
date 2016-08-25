@@ -9,7 +9,7 @@ email: mitra@mitrasaberi.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/mitra-s--web.jpg
 ---
 
 
