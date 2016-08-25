@@ -9,7 +9,7 @@ email: rrompas@shaw.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/ramdanny.jpg
 ---
 
 
