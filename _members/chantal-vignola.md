@@ -9,7 +9,7 @@ email: chantalvignolac21@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/chantel-v--web.jpg
+profile_image_path: /images/chantel--web.jpg
 ---
 
 
