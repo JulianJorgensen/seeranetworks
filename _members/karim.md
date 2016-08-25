@@ -9,7 +9,7 @@ email: karimdhanji@shaw.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/karim-d--web.jpg
 ---
 
 
