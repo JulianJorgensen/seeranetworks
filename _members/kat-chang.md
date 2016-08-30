@@ -1,8 +1,8 @@
 ---
 active: true
 name: Kat Chang
-contactTitle: Unlicensed Assistant to Rex Hua
-company:
+contactTitle: Assistant
+company: Rec Hua PREC
 category:
 phoneOffice: 778-861-8586
 email: kat.c.chang@gmail.com
