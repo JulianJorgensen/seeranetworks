@@ -1,13 +1,15 @@
 ---
 active: true
 name: Priya Aswani
-contactTitle:
-company:
+contactTitle: Assistant
+company: Jai Bhojwani
 category:
-phoneOffice:
-email:
+phoneOffice: 778-883-3813
+email: priyarichmond@yahoo.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /images/priya-web.jpg
 ---
+
+
