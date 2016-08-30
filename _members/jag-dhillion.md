@@ -1,13 +1,15 @@
 ---
 active: true
 name: Jag Dhillion
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty- Coq
+category: realestateagents
+phoneOffice: 604-603-0732
+email: dhillon@sutton.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
