@@ -21,6 +21,7 @@ collections:
     output: true
   network:
     output: true
+    _hide_content: true
   testimonials:
     output: false
   news:
