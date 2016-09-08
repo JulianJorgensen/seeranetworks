@@ -19,6 +19,7 @@ version: 3.2.1
 collections:
   members:
     output: true
+    _hide_content: true
   network:
     output: true
     _hide_content: true
