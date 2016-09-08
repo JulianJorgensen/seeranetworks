@@ -1,13 +1,15 @@
 ---
 active: true
 name: Renata Steele
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Group West Coast Realty
+category: Real Estate
+phoneOffice: 778-319-5006
+email: rsteele@sutton.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
