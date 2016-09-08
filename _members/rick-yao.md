@@ -1,6 +1,6 @@
 ---
 active: true
-name: Rick Yao
+name: Rick Kao
 contactTitle: Real Estate
 company: Royal First Realty
 category: Real Estate
