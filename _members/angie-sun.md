@@ -4,7 +4,7 @@ is_company: false
 name: Angie Sun
 contactTitle: Real Estate
 company: Royal Pacific Riverside Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 778-834-1268
 email: angiesun@royalpacific.com

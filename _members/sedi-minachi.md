@@ -4,7 +4,7 @@ is_company: false
 name: Sedi Minachi
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-790-4002
 email: sedigheh.minachi@gmail.com

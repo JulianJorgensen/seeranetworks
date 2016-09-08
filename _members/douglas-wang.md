@@ -4,7 +4,7 @@ is_company: false
 name: Douglas Wang
 contactTitle: Real Estate
 company: Remax 2000 Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-300-6088
 email: douglas.wang63@gmail.com

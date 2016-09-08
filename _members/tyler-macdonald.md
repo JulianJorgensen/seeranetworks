@@ -4,7 +4,7 @@ is_company: false
 name: Tyler Macdonald
 contactTitle: Real Estate
 company: Century 21 Intown Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-340-2538
 email: tyler@tylermacdonald.ca

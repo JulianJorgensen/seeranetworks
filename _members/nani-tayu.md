@@ -4,7 +4,7 @@ is_company: false
 name: Nani Tayu
 contactTitle: Real Estate
 company: Magsen Pro Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-725-0253
 email: nanitayu@gmail.com

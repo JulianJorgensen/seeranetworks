@@ -4,7 +4,7 @@ is_company: false
 name: Alex Liu
 contactTitle: Real Estate
 company: Sutton Seafair Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-727-8316
 email: alex@sutton.com

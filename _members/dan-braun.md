@@ -4,7 +4,7 @@ is_company: false
 name: Dan Braun
 contactTitle: Real Estate
 company: Remax Select Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-619-6005
 email: dan @danbraun.ca

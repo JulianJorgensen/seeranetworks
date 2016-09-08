@@ -4,7 +4,7 @@ is_company: false
 name: Rex Hua
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-780-8887
 email: rexh@sutton.com

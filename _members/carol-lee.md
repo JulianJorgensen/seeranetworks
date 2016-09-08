@@ -4,7 +4,7 @@ is_company: false
 name: Carol Lee
 contactTitle: Real Estate
 company: Homeland Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-723-8789
 email: carol@leecarol.ca

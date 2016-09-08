@@ -3,7 +3,7 @@ active: true
 name: Glen Yamada
 contactTitle: Real Estate
 company: Park Georgia Realty
-networks:
+network:
   - Real Estate
 phoneOffice: 604-240-2749
 email: g-yamada@shaw.ca

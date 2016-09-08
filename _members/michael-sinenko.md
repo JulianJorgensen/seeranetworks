@@ -4,7 +4,7 @@ is_company: false
 name: Michael Sinenko
 contactTitle: Real Estate
 company: Team 3000
-networks:
+network:
   - realestateagents
 phoneOffice: 778-688-1468
 email: mesinenko@gmail.com

@@ -4,7 +4,7 @@ is_company: false
 name: Carla Zivot PREC
 contactTitle: Real Estate
 company: Remax City Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-649-5063
 email: carlazivot@remax.net

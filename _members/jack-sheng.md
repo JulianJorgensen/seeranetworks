@@ -4,7 +4,7 @@ is_company: false
 name: Jack Sheng
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-657-0179
 email: jsheng@shaw.ca

@@ -12,7 +12,7 @@ layout: default
 
 <ul class="partner-category-group">
   {% for item in members %}
-    {% for category in item.networks %}
+    {% for category in item.network %}
       {% if category == pageCategory and item.is_company and item.active %}
       <li class="partner" style="border-color: {{ item.color }};">
         <div class="partner-bg" style="background-color: {{ item.color }};"></div>

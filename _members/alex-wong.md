@@ -4,7 +4,7 @@ is_company: false
 name: Alex Wong
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-729-8383
 email: alexw@sutton.com

@@ -3,7 +3,7 @@ active: true
 name: Janet Bohne
 contactTitle: Real Estate
 company: Royal Lepage
-networks:
+network:
   - Real Estate
 phoneOffice: 604-618-6797
 email: janet@thetodayteam.com

@@ -4,7 +4,7 @@ is_company: false
 name: Paige Burns
 contactTitle: Assistant
 company: Doc Livingston
-networks:
+network:
   -
 phoneOffice: 604-6268565
 email: paigeburns15@gmail.com

@@ -4,7 +4,7 @@ is_company: false
 name: Jason Gu
 contactTitle: Real Estate
 company: Remax Central Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 778-988-2888
 email: jason@jasongu.ca

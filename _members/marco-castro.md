@@ -4,7 +4,7 @@ is_company: false
 name: Marco Castoro
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 778-840-4895
 email: mcastoro@sutton.com

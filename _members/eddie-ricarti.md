@@ -4,7 +4,7 @@ is_company: false
 name: Eddie Ricarti
 contactTitle: Real Estate
 company: Magsen Realty Inc.
-networks:
+network:
   - realestateagents
 phoneOffice: 604-679-4199
 email: edricarti@gmail.com

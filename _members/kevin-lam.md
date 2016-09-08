@@ -4,7 +4,7 @@ is_company: false
 name: Larissa Van Dam
 contactTitle: Real Estate
 company: Remax All Points Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-880-1670
 email: larissa@allvancouvergroup.com

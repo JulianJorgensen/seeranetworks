@@ -4,7 +4,7 @@ is_company: false
 name: Michael Ree
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 778-386-9686
 email: mree@sutton.com

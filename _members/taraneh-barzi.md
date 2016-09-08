@@ -3,7 +3,7 @@ active: true
 name: Taraneh Barzi
 contactTitle:
 company:
-networks:
+network:
   - Real Estate
 phoneOffice: 1-780-710-0353
 email: taraneh1990@hotmail.com

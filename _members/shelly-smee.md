@@ -4,7 +4,7 @@ is_company: false
 name: Shelly Smee
 contactTitle: Real Estate
 company: Oakwyn Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-763-2787
 email: shelsells@gmail.com

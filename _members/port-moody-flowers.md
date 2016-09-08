@@ -4,7 +4,7 @@ is_company: false
 name: Celia Chiang
 contactTitle: Owner
 company: Port Moody Flowers
-networks:
+network:
   - florist
 phoneOffice: 604-492-0880
 email: portmoodyflowers@gmail.com

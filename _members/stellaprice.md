@@ -7,7 +7,7 @@ company: Sutton Grp West Coast Realty
 phoneCell: 604-833-7725
 phoneOffice: 604-833-7725
 email: stella@stellaprice.com
-networks:
+network:
   - realestateagents
 contactTitle: 'Stella Price & Associates'
 image_path: /images/sutton.png

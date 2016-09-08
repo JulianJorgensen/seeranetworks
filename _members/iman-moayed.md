@@ -4,7 +4,7 @@ is_company: false
 name: Iman Moayed
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-506-2072
 email: imoayed@sutton.com

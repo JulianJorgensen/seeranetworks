@@ -4,7 +4,7 @@ is_company: false
 name: Lotus Yuen
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 778-862-8321
 email: lotusyuen@gmail.com

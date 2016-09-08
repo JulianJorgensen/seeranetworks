@@ -4,7 +4,7 @@ is_company: false
 name: Maurice Yu
 contactTitle: Real Estate
 company: Magsen Realty Inc
-networks:
+network:
   - realestateagents
 phoneOffice: 778-883-4833
 email: mauriceyu@magsen.ca

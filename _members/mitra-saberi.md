@@ -4,7 +4,7 @@ is_company: false
 name: Mitra Saberi
 contactTitle: Real Estate
 company: Evergreen West Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-761-5550
 email: mitra@mitrasaberi.com

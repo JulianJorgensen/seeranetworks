@@ -4,7 +4,7 @@ is_company: false
 name: Graeme Liu
 contactTitle: Real Estate
 company: Remax Crest Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-779-5885
 email: graemeliu@gmail.com

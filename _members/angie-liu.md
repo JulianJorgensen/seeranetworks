@@ -4,7 +4,7 @@ is_company: false
 name: Angie Liu
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-787-2727
 email: angieliu@shaw.ca

@@ -4,7 +4,7 @@ is_company: true
 name: Julian Jorgensen
 contactTitle: UX Designer
 company: JORGENSEN
-networks:
+network:
   - web-designer
 phoneOffice: '6044452909'
 email: julian@goldenchai.com

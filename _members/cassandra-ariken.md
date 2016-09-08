@@ -3,7 +3,7 @@ active: true
 name: Cassandra Ariken
 contactTitle: Real Estate
 company: Royal Lepage
-networks:
+network:
   - Real Estate
 phoneOffice: 604-836-1560
 email: cassandra@thetodayteam.com

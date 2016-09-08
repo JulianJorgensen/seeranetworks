@@ -3,7 +3,7 @@ active: true
 name: Michael (Yong Jun) Zhang
 contactTitle: Real Estate
 company: New Coast Realty
-networks:
+network:
   - Real Estate
 phoneOffice: 604-808-6887
 email: zhyjun@yahoo.com

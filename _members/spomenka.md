@@ -4,7 +4,7 @@ is_company: false
 name: Spomenka Nikic
 contactTitle: Real Estate
 company: Sutton Centre Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-612-2632
 email: info@spomenka.ca

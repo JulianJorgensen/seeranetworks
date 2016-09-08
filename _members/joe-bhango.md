@@ -3,7 +3,7 @@ active: true
 name: Joe Bhango
 contactTitle: Real Estate
 company: Sutton Centre Realty
-networks:
+network:
   - Real Estate
 phoneOffice: 778-995-7653
 email: joe@joebhango.com

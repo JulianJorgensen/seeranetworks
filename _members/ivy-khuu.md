@@ -4,7 +4,7 @@ is_company: false
 name: Ivy Khuu
 contactTitle: Real Estate
 company: Sutton Group- Winnie Lam
-networks:
+network:
   - realestateagents
 phoneOffice: 778-887-0299
 email: 8870299@gmail.com

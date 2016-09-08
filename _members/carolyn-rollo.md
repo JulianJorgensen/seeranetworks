@@ -4,7 +4,7 @@ is_company: false
 name: Carolyn Rollo
 contactTitle: Real Estate
 company: Dexter Associates Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-317-6556
 email: virgocarolyn@gmail.com

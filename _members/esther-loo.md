@@ -4,7 +4,7 @@ is_company: false
 name: Esther Loo
 contactTitle: Assistant
 company: Jessica Chen PREC
-networks:
+network:
   - realestateagents
 phoneOffice: 604-537-6622
 email: esthercloo@gmail.com

@@ -4,7 +4,7 @@ is_company: false
 name: Dorris Gee
 contactTitle: Real Estate
 company: Remax Central Realty
-networks:
+network:
   - realestateagents
 phoneOffice: 604-250-0177
 email: doris@dorisgee.com
