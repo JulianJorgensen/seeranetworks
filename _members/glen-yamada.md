@@ -1,12 +1,11 @@
 ---
 active: true
-is_company: false
-name: Rick Persad
+name: Glen Yamada
 contactTitle: Real Estate
-company: Keller Williams Black Diamond
+company: Park Georgia Realty
 category: Real Estate
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+phoneOffice: 604-240-2749
+email: g-yamada@shaw.ca
 image_path:
 color:
 website:

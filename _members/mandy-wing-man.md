@@ -1,12 +1,11 @@
 ---
 active: true
-is_company: false
-name: Rick Persad
+name: Mandy (Wing Man) Siu
 contactTitle: Real Estate
-company: Keller Williams Black Diamond
+company: Keller Williams Elite Realty
 category: Real Estate
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+phoneOffice: 778-999-7040
+email: mandywingman@gmail.com
 image_path:
 color:
 website:

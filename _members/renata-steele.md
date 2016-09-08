@@ -1,12 +1,11 @@
 ---
 active: true
-is_company: false
-name: Rick Persad
+name: Renata Steele
 contactTitle: Real Estate
-company: Keller Williams Black Diamond
+company: Sutton Group West Coast Realty
 category: Real Estate
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+phoneOffice: 778-319-5006
+email: rsteele@sutton.com
 image_path:
 color:
 website:

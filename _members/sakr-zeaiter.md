@@ -1,12 +1,11 @@
 ---
 active: true
-is_company: false
-name: Rick Persad
+name: Sakr Zeaiter
 contactTitle: Real Estate
-company: Keller Williams Black Diamond
+company: Sutton Grp West Coast Realty
 category: Real Estate
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+phoneOffice: 604-464-2458
+email: sakrzeaiter@yahoo.com
 image_path:
 color:
 website:

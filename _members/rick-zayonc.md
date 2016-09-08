@@ -1,12 +1,11 @@
 ---
 active: true
-is_company: false
-name: Rick Persad
+name: Rick Zayonc
 contactTitle: Real Estate
-company: Keller Williams Black Diamond
+company: Sutton Grp West coast Realty
 category: Real Estate
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+phoneOffice: 604-329-8049
+email: rzayonc@sutton.com
 image_path:
 color:
 website:

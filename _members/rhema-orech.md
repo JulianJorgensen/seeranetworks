@@ -3,14 +3,12 @@ active: true
 is_company: false
 name: Richard Bishop
 contactTitle: Real Estate
-company: Sutton Grp West Coast Realty
-category: realestateagents
-phoneOffice: 778-888-7424
-email: rbishop@sutton.com
+company: New Coast Realty
+category: Real Estate
+phoneOffice: 604-377-8023
+email: rolivelk418@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/richard-web.jpg
+profile_image_path: /images/person.png
 ---
-
-

@@ -1,12 +1,11 @@
 ---
 active: true
-is_company: false
-name: Rick Persad
+name: JD Horlings
 contactTitle: Real Estate
-company: Keller Williams Black Diamond
+company: TN Realty
 category: Real Estate
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+phoneOffice: 778-654-7931
+email: jd.horlings@tnrealty.ca
 image_path:
 color:
 website:
