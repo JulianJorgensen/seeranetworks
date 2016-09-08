@@ -1,13 +1,15 @@
 ---
 active: true
 name: Francis Leung
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Royal Pacific Realty
+category: Real Estate
+phoneOffice: 604-418-3939
+email: fleung50@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
