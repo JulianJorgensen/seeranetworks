@@ -1,13 +1,15 @@
 ---
 active: true
 name: Nani Tayu
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Magsen Pro Realty
+category: realestateagents
+phoneOffice: 604-725-0253
+email: nanitayu@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
