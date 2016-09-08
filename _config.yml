@@ -19,7 +19,7 @@ version: 3.2.1
 collections:
   members:
     output: true
-  networkcategories:
+  network:
     output: true
   testimonials:
     output: false
@@ -36,7 +36,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "networkcategories"
+      type: "network"
     values:
       layout: "category"
   -
