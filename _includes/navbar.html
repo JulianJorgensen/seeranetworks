@@ -26,6 +26,7 @@
                 <li class="accordion {% if category.title == page.title %}active{% endif %}">
                   <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
                   <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
+                    tester1
                     {% for subcategory in site.categories %}
                       test: {{ subcategory }}
                       {% if subcategory.category == categoryTitle %}
