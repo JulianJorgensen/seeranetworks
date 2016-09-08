@@ -18,16 +18,14 @@
           <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
           <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
             <ul>
-              {% assign primary_categories = site.data.maincategories %}
-              {{ primary_categories }}
-              {% for category in primary_categories %}
+              {% assign networkcategories = site.data.networkcategories %}
+              {% for category in networkcategories %}
 
                 {% assign categoryTitle = category.title | downcase | replace:" ","" %}
 
                 <li class="accordion {% if category.title == page.title %}active{% endif %}">
                   <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
                   <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
-                    tester2
                     {% for subcategory in site.networkcategories %}
                       test: {{ subcategory }}
                       {% if subcategory.category == categoryTitle %}
