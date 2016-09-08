@@ -10,7 +10,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-version: 3.0.3
+version: 3.2.1
 
 # Pretty URL
 # permalink: "posts/:title"
