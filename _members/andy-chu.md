@@ -4,7 +4,8 @@ is_company: false
 name: Andy Chu PREC
 contactTitle: Real Estate
 company: Nu Stream Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-558-6687
 email: andychuprec@gmail.com
 image_path:

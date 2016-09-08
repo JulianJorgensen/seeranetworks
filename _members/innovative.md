@@ -4,7 +4,8 @@ is_company: false
 name: Sharon Davis
 contactTitle: "Mortgage Planner/Partner"
 company: INNOVATIVE MORTGAGE SOLUTIONS
-network: mortgagebrokers
+networks:
+  - mortgagebrokers
 phoneOffice: 604-220-2343 ext. 101
 phoneCell: 604-220-2343
 email: sharon@myimsmortgage.com

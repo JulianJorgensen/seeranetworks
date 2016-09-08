@@ -4,7 +4,8 @@ is_company: false
 name: Holly Li
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-209-9732
 email: hi@hollyli.ca
 image_path:

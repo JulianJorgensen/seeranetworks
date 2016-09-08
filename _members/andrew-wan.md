@@ -4,7 +4,8 @@ is_company: false
 name: Andrew Wan
 contactTitle: Real Estate
 company: Oakwyn Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-762-1528
 email: awan@oakwyn.com
 image_path:

@@ -4,7 +4,8 @@ is_company: false
 name: Al Suleman
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-328-2535
 email: al@thebestsellers.ca
 image_path:

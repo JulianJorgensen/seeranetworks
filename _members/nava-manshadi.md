@@ -4,7 +4,8 @@ is_company: false
 name: Nava Manshadi
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-926-6282
 email: navahomes@gmail.com
 image_path:

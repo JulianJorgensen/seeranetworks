@@ -3,7 +3,8 @@ active: true
 name: Sakr Zeaiter
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: Real Estate
+networks:
+  - Real Estate
 phoneOffice: 604-464-2458
 email: sakrzeaiter@yahoo.com
 image_path:

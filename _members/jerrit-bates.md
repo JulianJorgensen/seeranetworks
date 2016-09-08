@@ -4,7 +4,8 @@ is_company: false
 name: Jerrit Bates
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-866-4359
 email: jerrit@citytosuburb.ca
 image_path:

@@ -4,7 +4,8 @@ is_company: false
 name: Joanne Jonathan
 contactTitle: Real Estate
 company: Magsen Realty Inc.
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-771-8143
 email: joannejonathan.mail@gmail.com
 image_path:

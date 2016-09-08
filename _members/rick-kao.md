@@ -4,7 +4,8 @@ is_company: false
 name: Rick Kao
 contactTitle: Real Estate
 company: Royal First Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-885-8228
 email: rickao8228@gmail.com
 image_path:

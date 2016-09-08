@@ -4,7 +4,8 @@ is_company: false
 name: Naru Menon
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-882-8601
 email: kpnmenon@gmail.com
 image_path:

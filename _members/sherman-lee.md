@@ -4,7 +4,8 @@ is_company: false
 name: Sherman Lee
 contactTitle: Real Estate
 company: Remax Westcoast
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-831-8277
 email: best@shermanlee.ca
 image_path:

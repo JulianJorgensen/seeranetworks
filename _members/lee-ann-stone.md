@@ -4,7 +4,8 @@ is_company: false
 name: Lee Ann Stone
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-763-4704
 email: leeann@mustseelistings.com
 image_path:

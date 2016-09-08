@@ -4,7 +4,8 @@ is_company: false
 name: Geoff Jarman PREC
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-313-7280
 email: gjarman@sutton.com
 image_path:

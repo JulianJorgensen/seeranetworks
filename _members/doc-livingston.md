@@ -4,7 +4,8 @@ is_company: false
 name: Doc Livingston PREC
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-787-7028
 email: doc@homehuntersbc.com
 image_path:

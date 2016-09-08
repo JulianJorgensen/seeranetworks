@@ -4,7 +4,8 @@ is_company: false
 name: Jason Watson
 contactTitle: Real Estate Managing Broker
 company: Suton Group West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-415-9800
 email: jason@jasonwatson.ca
 image_path:

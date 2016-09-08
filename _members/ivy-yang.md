@@ -4,7 +4,8 @@ is_company: false
 name: Ivy Yang
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-989-7295
 email: ivyszyang@gmail.com
 image_path:

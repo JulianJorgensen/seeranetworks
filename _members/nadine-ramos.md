@@ -4,7 +4,8 @@ is_company: false
 name: Nadine Ramos
 contactTitle: Real Estate
 company: Dexter Associates Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-329-9339
 email: nadine.vanrealty@gmail.com
 image_path:

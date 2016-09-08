@@ -4,7 +4,8 @@ is_company: false
 name: Barry Fence
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-322-0000
 email: barry@sutton.com
 image_path:

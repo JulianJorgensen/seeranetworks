@@ -4,7 +4,8 @@ is_company: false
 name: Shirley Dang-Kramer
 contactTitle: Real Estate
 company: Sutton Grp West Coast
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-710-8821
 email: shirleyd@sutton.com
 image_path:

@@ -4,7 +4,8 @@ is_company: false
 name: Mohamed Mansour
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-319-5827
 email: mohamed@mansourgroup.ca
 image_path:

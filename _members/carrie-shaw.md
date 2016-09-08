@@ -4,7 +4,8 @@ is_company: false
 name: Carrie Shaw
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-323-4723
 email: carrie@carrieshaw.ca
 image_path:

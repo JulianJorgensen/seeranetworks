@@ -4,7 +4,8 @@ is_company: false
 name: Jacquie McCarnan
 contactTitle: Real Estate
 company: Remax Masters Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-764-0990
 email: jacquie@socialmedia-canada.com
 image_path:

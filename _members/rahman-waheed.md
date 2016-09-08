@@ -3,7 +3,8 @@ active: true
 name: Rahman Waheed
 contactTitle: Real Estate
 company: Sutton Grp West coast Realty
-network: Real Estate
+networks:
+  - Real Estate
 phoneOffice: 604-868-1966
 email: rahman@rahmanwaheed.com
 image_path:

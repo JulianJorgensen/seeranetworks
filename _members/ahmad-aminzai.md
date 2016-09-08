@@ -4,7 +4,8 @@ is_company: false
 name: Ahmad Aminzai
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-764-8880
 email: ahmad.aminzai@gmail.com
 image_path:

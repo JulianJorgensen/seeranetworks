@@ -3,7 +3,8 @@ active: false
 name: Frank Liu
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-868-4016
 email: frank_liub@yahoo.com
 image_path:

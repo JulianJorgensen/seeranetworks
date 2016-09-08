@@ -4,7 +4,8 @@ is_company: false
 name: Jai Bhojwani
 contactTitle: Real Estate
 company: Luxmore Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-885-9745
 email: jai.bhojwani@yahoo.com
 image_path:

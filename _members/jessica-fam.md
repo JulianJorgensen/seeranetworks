@@ -4,7 +4,8 @@ is_company: false
 name: Jessica Fam
 contactTitle:
 company: Hanna Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-881-8778
 email: jessica6667@hotmail.com
 image_path:

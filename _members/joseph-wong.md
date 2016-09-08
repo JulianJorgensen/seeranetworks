@@ -4,7 +4,8 @@ is_company: false
 name: Joseph Wong
 contactTitle: Real Estate
 company: Sutton Grp West Coast
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-809-5989
 email: josephw293@gmail.com
 image_path:

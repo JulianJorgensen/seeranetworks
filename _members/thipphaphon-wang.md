@@ -4,7 +4,8 @@ is_company: false
 name: Thipphaphon Wang
 contactTitle: Assistant
 company: Douglas Wang
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-317-6813
 email: e.wang@live.ca
 image_path:

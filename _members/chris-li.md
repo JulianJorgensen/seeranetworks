@@ -4,7 +4,8 @@ is_company: false
 name: Chris Li
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 778-869-4769
 email: chrislee323@yahoo.com
 image_path:

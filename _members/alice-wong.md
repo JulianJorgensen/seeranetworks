@@ -4,7 +4,8 @@ is_company: false
 name: Alice Wong
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty- Coq
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-657-3172
 email: alice@sutton.com
 image_path:

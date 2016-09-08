@@ -4,7 +4,8 @@ is_company: false
 name: Tan Truong
 contactTitle: Real Estate
 company: Remax Metro Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-928-8268
 email: tanttruong@gmail.com
 image_path:

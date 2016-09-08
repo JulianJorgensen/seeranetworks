@@ -4,7 +4,8 @@ is_company: false
 name: Ben Kay
 contactTitle: Real Estate
 company: MacDonald Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-710-5270
 email: ben@benkay.ca
 color: '#00e3d3'

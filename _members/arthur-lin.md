@@ -4,7 +4,8 @@ is_company: false
 name: Arthur Lin
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-230-9169
 email: alin@sutton.com
 image_path:

@@ -3,7 +3,8 @@ active: true
 name: Anthea Poon
 contactTitle: Real Estate
 company: Remax Select Realty
-network: Real Estate
+networks:
+  - Real Estate
 phoneOffice: 604-719-6103
 email: anthea@antheapoon.com
 image_path:

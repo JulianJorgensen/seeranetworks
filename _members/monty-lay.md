@@ -4,7 +4,8 @@ is_company: false
 name: Monty Law
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-network: Real Estate
+networks:
+  - Real Estate
 phoneOffice: 604-722-2869
 email: montylaw2004@yahoo.com
 image_path:

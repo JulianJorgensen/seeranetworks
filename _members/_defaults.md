@@ -4,7 +4,8 @@ is_company: false
 name: ""
 contactTitle: ""
 company: ""
-network: ""
+networks:
+  - ""
 phoneOffice: ""
 email: ""
 image_path: ""

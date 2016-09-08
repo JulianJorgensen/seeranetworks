@@ -7,7 +7,8 @@ company: 'Ferrari Maserati of Vancouver'
 phoneCell: '604-328-7344'
 phoneOffice: '604-215-8778'
 email: 'mharrison@fmov.ca'
-network: dealerships
+networks:
+  - dealerships
 image_path: /images/ferrari.png
 color: '#ff0000'
 website: 'fmov.ca'

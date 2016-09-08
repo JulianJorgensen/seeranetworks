@@ -4,7 +4,8 @@ is_company: false
 name: Jamie lee
 contactTitle: Real Estate
 company: Suton Group West Coast Realty
-network: realestateagents
+networks:
+  - realestateagents
 phoneOffice: 604-780-0055
 email: jamielee@sutton.com
 image_path:
