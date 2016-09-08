@@ -1,13 +1,15 @@
 ---
 active: true
 name: JD Horlings
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: TN Realty
+category: Real Estate
+phoneOffice: 778-654-7931
+email: jd.horlings@tnrealty.ca
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
