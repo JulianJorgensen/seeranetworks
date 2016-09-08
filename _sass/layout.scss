@@ -2,8 +2,7 @@ body{
   min-height: 100vh;
   overflow-x: hidden;
   @include transition(0.2s left);
-  background: url("/images/origami-bg.jpg") center center no-repeat;
-  background-size: cover;
+  background: url("/images/origami-bg.jpg") 0 0 repeat;
 
   &.mobile-nav-expanded{
     position: relative;
