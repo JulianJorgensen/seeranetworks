@@ -10,6 +10,21 @@ body{
   }
 }
 
+.site-layout{
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+
+  .sidebar-left{
+    flex: 0 0 25%;
+  }
+
+  .main-wrapper{
+    flex: 0 0 75%;
+    padding-bottom: 20px;
+  }
+}
+
 .main-content{
   padding: 20px 0;
 }
