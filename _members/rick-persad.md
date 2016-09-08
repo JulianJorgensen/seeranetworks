@@ -1,15 +1,13 @@
 ---
 active: true
 name: Rick Persad
-contactTitle: Real Estate
-company: Keller Williams Black Diamond Rlty
-category: realestateagents
-phoneOffice: 604-889-9421
-email: rick@rickpersad.ca
+contactTitle:
+company:
+category:
+phoneOffice:
+email:
 image_path:
 color:
 website:
-profile_image_path: /images/rick-web.jpg
+profile_image_path: /images/person.png
 ---
-
-
