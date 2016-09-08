@@ -1,13 +1,15 @@
 ---
 active: true
 name: Pierre Van
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty
+category: Real Estate
+phoneOffice: 778-999-9087
+email: pvan@sutton.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
