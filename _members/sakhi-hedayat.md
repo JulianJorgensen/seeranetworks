@@ -1,13 +1,15 @@
 ---
 active: true
 name: Sakhi Hedayat
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Royalty Group Realty
+category: Real Estate
+phoneOffice: 604-250-3409
+email: sakhi.hatef@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
