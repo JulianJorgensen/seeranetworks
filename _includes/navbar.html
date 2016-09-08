@@ -19,6 +19,7 @@
           <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
             <ul>
               {% assign primary_categories = site.data.maincategories %}
+              {{ primary_categories }}
               {% for category in primary_categories %}
 
                 {% assign categoryTitle = category.title | downcase | replace:" ","" %}
