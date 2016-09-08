@@ -2,13 +2,15 @@
 active: true
 is_company: false
 name: Julian Jorgensen
-contactTitle:
-company:
+contactTitle: UX Designer
+company: JORGENSEN
 category:
-phoneOffice:
-email:
+phoneOffice: '6044452909'
+email: julian@goldenchai.com
 image_path:
 color:
-website:
+website: 'http://julianjorgensen.com'
 profile_image_path: /images/person.png
 ---
+
+
