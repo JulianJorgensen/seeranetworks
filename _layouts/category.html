@@ -16,13 +16,13 @@ layout: default
       <div class="partner-bg" style="background-color: {{ item.color }};"></div>
       <div class="row">
         <div class="col-sm-8">
-          <h3 class="partner-title">{{ item.title }}</h3>
+          <h3 class="partner-title">{{ item.name }}</h3>
           <div class="partner-details">
             <div class="row">
               <div class="col-sm-7">
                 <ul>
-                  {% if item.name %}<li class="uc">{{ item.name }}</li>{% endif %}
-                  {% if item.subtitle %}<li class="partner-subtitle">{{ item.subtitle }}</li>{% endif %}
+                  {% if item.name %}<li class="uc">{{ item.subtitle }}</li>{% endif %}
+                  {% if item.subtitle %}<li class="partner-subtitle">{{ item.company }}</li>{% endif %}
                   {% if item.contactTitle %}<li class="small-margin-bottom">{{ item.contactTitle }}</li>{% endif %}
                   {% if item.specialty %}<li>{{ item.specialty }}</li>{% endif %}
                   {% if item.phoneOffice %}{% if item.phoneCell %}<li>{% if item.phoneOffice %}O. {{ item.phoneOffice }}{% endif %} &nbsp;&nbsp;&nbsp;{% if item.phoneCell %}C. {{ item.phoneCell }}{% endif %}</li>{% endif %}{% endif %}
