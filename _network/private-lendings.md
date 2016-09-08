@@ -1,5 +1,5 @@
 ---
 title: Private Lendings
-category: finance
+network: finance
 ---
 

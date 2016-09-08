@@ -1,4 +1,4 @@
 ---
 title: IT/Computer
-category: business
+network: business
 ---

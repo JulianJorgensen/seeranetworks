@@ -1,4 +1,4 @@
 ---
 title: Cake Designer
-category: 'events'
+network: 'events'
 ---

@@ -1,5 +1,5 @@
 ---
 title: Florist
-category: events
+network: events
 ---
 

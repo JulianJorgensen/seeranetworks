@@ -1,4 +1,4 @@
 ---
 title: Car Details
-category: automobile
+network: automobile
 ---

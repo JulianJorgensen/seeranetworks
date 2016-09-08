@@ -1,4 +1,4 @@
 ---
 title: Draperies & window coverings
-category: interiordesign
+network: interiordesign
 ---

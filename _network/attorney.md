@@ -1,4 +1,4 @@
 ---
 title: Attorney
-category: legal
+network: legal
 ---
