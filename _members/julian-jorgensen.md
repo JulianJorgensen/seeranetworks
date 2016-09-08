@@ -9,7 +9,7 @@ network:
 phoneOffice: '6044452909'
 email: julian@goldenchai.com
 image_path:
-color:
+color: '#decd07'
 website: julianjorgensen.com
 profile_image_path: /images/person.png
 ---
