@@ -1,13 +1,15 @@
 ---
 active: true
 name: Hubert Chang
-contactTitle:
-company:
-category:
-phoneOffice:
-email:
+contactTitle: Real Estate
+company: Sutton Group West Coast Realty
+category: realestateagents
+phoneOffice: 604-537-3956
+email: hubertcsutton@gmail.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
+
+
