@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Carla Zivot PREC
 contactTitle: Real Estate
 company: Remax City Realty

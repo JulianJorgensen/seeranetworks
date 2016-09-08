@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Gina Chung
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty

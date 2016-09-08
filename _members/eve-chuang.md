@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Eve Chuang
 contactTitle: Real Estate
 company: Macdonald Realty Ltd.

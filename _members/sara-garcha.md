@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Sara Garcha
 contactTitle: Real Estate
 company: Dexter Associates Realty

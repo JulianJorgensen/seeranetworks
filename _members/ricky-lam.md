@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Ricky Lam
 contactTitle: Real Estate
 company: Regent Park Realty Inc.

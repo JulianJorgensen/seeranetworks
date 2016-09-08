@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Chris Townsend
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty

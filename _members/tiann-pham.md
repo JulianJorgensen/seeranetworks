@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Tiann Pham
 contactTitle: Real Estate
 company: Royal LePage Klein Group

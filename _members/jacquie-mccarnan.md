@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Jacquie McCarnan
 contactTitle: Real Estate
 company: Remax Masters Realty

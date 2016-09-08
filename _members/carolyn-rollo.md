@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Carolyn Rollo
 contactTitle: Real Estate
 company: Dexter Associates Realty

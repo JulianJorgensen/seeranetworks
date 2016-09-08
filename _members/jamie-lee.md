@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Jamie lee
 contactTitle: Real Estate
 company: Suton Group West Coast Realty

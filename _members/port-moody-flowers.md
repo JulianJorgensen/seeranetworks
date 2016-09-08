@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Celia Chiang
 contactTitle: Owner
 company: Port Moody Flowers

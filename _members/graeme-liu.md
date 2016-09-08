@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Graeme Liu
 contactTitle: Real Estate
 company: Remax Crest Realty

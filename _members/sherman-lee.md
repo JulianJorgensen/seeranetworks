@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Sherman Lee
 contactTitle: Real Estate
 company: Remax Westcoast

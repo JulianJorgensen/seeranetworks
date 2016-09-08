@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Jason Watson
 contactTitle: Real Estate Managing Broker
 company: Suton Group West Coast Realty

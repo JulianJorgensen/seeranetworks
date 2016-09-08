@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Jason Gu
 contactTitle: Real Estate
 company: Remax Central Realty

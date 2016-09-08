@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Dorris Gee
 contactTitle: Real Estate
 company: Remax Central Realty

@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: 'Mark Harrison'
 contactTitle: "Sales Manager"
 company: 'Ferrari Maserati of Vancouver'

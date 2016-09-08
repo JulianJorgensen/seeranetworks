@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: David Yoo
 contactTitle: ""
 company: DOMINION LENDING

@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Larrie Forbes
 contactTitle: Real Estate
 company: Remax All Points Realty

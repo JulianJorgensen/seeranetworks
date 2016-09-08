@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Lee Ann Stone
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty

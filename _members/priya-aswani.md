@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Priya Aswani
 contactTitle: Assistant
 company: Jai Bhojwani

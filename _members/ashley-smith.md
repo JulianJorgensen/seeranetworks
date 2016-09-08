@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Ashley Smith
 contactTitle: Real Estate
 company: Royal Lepage Klein Group

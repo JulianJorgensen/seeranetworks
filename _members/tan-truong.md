@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Tan Truong
 contactTitle: Real Estate
 company: Remax Metro Realty

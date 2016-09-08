@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Chantal Vignola
 contactTitle: Real Estate
 company: Century 21 In Town Realty

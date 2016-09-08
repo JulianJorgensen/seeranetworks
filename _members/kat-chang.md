@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Kat Chang
 contactTitle: Assistant
 company: Rec Hua PREC

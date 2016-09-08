@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Kelly Zheng
 contactTitle: Real Estate
 company: TRG Realty

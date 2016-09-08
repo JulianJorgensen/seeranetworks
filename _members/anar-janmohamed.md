@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Anar Janmohamed
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty

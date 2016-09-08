@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Bernie Bloomberg
 contactTitle: Real Estate
 company: Remax Masters Realty

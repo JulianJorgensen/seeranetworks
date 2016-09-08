@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Shirley Dang-Kramer
 contactTitle: Real Estate
 company: Sutton Grp West Coast

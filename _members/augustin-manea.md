@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Augustin Manea
 contactTitle:
 company:

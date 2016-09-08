@@ -2,16 +2,16 @@
 layout: default
 ---
 
-{% assign filename = page.url | replace: '/', '' | replace: 'categories', '' | replace: '.html', '.md' %}
-<a class="btn btn-warning editor-link" href="cloudcannon:collections/_categories/{{ filename }}">Edit category</a>
+{% assign filename = page.url | replace: '/', '' | replace: 'network', '' | replace: '.html', '.md' %}
+<a class="btn btn-warning editor-link" href="cloudcannon:collections/_network/{{ filename }}">Edit category</a>
 
 <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit partners</a></p>
 
-{% assign pageCategory = page.id | downcase | replace:"/categories/","" %}
+{% assign pageCategory = page.id | downcase | replace:"/network/","" %}
 {% assign collection = site.members | where:'category', pageCategory | sort: "weight" %}
 <ul class="partner-category-group">
   {% for item in collection %}
-    {% if item.active %}
+    {% if item.active and item.is_company %}
     <li class="partner" style="border-color: {{ item.color }};">
       <div class="partner-bg" style="background-color: {{ item.color }};"></div>
       <div class="row">

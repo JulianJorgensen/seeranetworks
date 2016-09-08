@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Lotus Yuen
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty

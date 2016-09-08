@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Sakhi Hedayat
 contactTitle: Real Estate
 company: Royalty Group Realty

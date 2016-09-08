@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Marco Castoro
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty

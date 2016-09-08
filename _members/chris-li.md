@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Chris Li
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty

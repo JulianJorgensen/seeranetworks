@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Spomenka Nikic
 contactTitle: Real Estate
 company: Sutton Centre Realty

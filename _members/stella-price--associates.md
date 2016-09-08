@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: true
 name: Stella Price
 contactTitle: Sutton Grp West Coast Realty
 company: 'Stella Price & Associates'
@@ -11,5 +12,3 @@ color:
 website: www.stellaprice.com
 profile_image_path: /images/person.png
 ---
-
-

@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Ben Kay
 contactTitle: Real Estate
 company: MacDonald Realty

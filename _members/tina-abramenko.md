@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Tina Abramenko
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty

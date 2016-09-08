@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: 'Shane D. Coblin'
 title: Litigation Attorney
 company: 'Kornfeld LLP'

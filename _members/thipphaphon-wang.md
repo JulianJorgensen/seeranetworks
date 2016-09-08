@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Thipphaphon Wang
 contactTitle: Assistant
 company: Douglas Wang

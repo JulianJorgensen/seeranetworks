@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: true
 name: Stella Price PREC
 contactTitle: ""
 company: Sutton Grp West Coast Realty

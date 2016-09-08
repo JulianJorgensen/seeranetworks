@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Douglas Wang
 contactTitle: Real Estate
 company: Remax 2000 Realty

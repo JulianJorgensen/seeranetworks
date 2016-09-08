@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Ahmad Aminzai
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
@@ -11,5 +12,3 @@ color:
 website:
 profile_image_path: /images/head-shot--web.jpg
 ---
-
-

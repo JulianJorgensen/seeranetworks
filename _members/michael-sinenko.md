@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Michael Sinenko
 contactTitle: Real Estate
 company: Team 3000

@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Jessica Chen PREC
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty

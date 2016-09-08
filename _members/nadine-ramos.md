@@ -1,5 +1,6 @@
 ---
 active: true
+is_company: false
 name: Nadine Ramos
 contactTitle: Real Estate
 company: Dexter Associates Realty
