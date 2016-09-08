@@ -4,7 +4,7 @@ is_company: false
 name: Tiann Pham
 contactTitle: Real Estate
 company: Royal LePage Klein Group
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-773-5570
 email: tpham@kleingroup.com
 image_path:

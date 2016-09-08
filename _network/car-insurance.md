@@ -1,4 +1,4 @@
 ---
 title: Car insurance
-network: automobile
+category: automobile
 ---

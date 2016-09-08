@@ -3,7 +3,7 @@ active: true
 name: Rick Zayonc
 contactTitle: Real Estate
 company: Sutton Grp West coast Realty
-category: Real Estate
+network: Real Estate
 phoneOffice: 604-329-8049
 email: rzayonc@sutton.com
 image_path:

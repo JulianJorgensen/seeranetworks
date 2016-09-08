@@ -4,7 +4,7 @@ is_company: false
 name: Augustin Manea
 contactTitle:
 company:
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-565-0867
 email: augustin.manea@gmail.com
 image_path:

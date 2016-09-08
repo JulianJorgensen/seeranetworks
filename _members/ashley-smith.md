@@ -4,7 +4,7 @@ is_company: false
 name: Ashley Smith
 contactTitle: Real Estate
 company: Royal Lepage Klein Group
-category: realestateagents
+network: realestateagents
 phoneOffice: 778-868-4915
 email: asmith@kleingroup.com
 image_path:

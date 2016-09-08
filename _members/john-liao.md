@@ -4,7 +4,7 @@ is_company: false
 name: John Liao
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 778-688-3727
 email: johnliaorealestate@gmail.com
 image_path:

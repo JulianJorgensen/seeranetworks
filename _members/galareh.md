@@ -4,7 +4,7 @@ is_company: false
 name: Gelareh Zarrabi PREC
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-803-7096
 email: zarrabi.g@gmail.com
 image_path:

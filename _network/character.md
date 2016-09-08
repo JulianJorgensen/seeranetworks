@@ -1,4 +1,4 @@
 ---
 title: 'Character Entertainers'
-network: ' '
+category: ' '
 ---

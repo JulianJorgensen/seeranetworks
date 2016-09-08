@@ -1,4 +1,4 @@
 ---
 title: Wedding Planners
-network: Events
+category: Events
 ---

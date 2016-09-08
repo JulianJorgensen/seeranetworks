@@ -4,7 +4,7 @@ is_company: false
 name: Anthony Tseng
 contactTitle: Real Estate
 company: Sutton Grp Westcoast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-528-8889
 email: atseng@sutton.com
 image_path:

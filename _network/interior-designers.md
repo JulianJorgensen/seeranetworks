@@ -1,5 +1,5 @@
 ---
 title: Interior designers
-network: interiordesign
+category: interiordesign
 ---
 

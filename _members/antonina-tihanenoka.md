@@ -4,7 +4,7 @@ is_company: false
 name: Antonina Tihanenoka
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-617-5748
 email: antonina.t@shaw.ca
 image_path:

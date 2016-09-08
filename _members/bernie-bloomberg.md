@@ -4,7 +4,7 @@ is_company: false
 name: Bernie Bloomberg
 contactTitle: Real Estate
 company: Remax Masters Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 778-888-6001
 email: realtorbloomberg@gmail.com
 image_path:

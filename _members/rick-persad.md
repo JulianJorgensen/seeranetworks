@@ -4,7 +4,7 @@ is_company: false
 name: Rick Persad
 contactTitle: Real Estate
 company: Keller Williams Black Diamond
-category: Real Estate
+network: Real Estate
 phoneOffice: 604-889-9421
 email: rick@rickpersad.ca
 image_path:

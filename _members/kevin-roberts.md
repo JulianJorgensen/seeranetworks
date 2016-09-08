@@ -4,7 +4,7 @@ is_company: false
 name: Kevin Roberts
 contactTitle: Real Estate
 company: Remax All Points Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-936-0422
 email: kevinroberts@remax.net
 image_path:

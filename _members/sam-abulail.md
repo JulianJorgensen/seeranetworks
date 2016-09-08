@@ -3,7 +3,7 @@ active: true
 name: Sam Abulail
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: Real Estate
+network: Real Estate
 phoneOffice: 604-868-0567
 email: sabulail@sutton.com
 image_path:

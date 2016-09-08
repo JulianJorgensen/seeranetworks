@@ -4,7 +4,7 @@ is_company: false
 name: Karim Dhanji
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-780-8316
 email: karimdhanji@shaw.ca
 image_path:

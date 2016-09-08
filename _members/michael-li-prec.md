@@ -4,7 +4,7 @@ is_company: false
 name: Michael Li (PREC)
 contactTitle: Real Estate
 company: Macdonald Realty
-category: Real Estate
+network: Real Estate
 phoneOffice: 604-518-1899
 email: myl604-5181899@gmail.com
 image_path:

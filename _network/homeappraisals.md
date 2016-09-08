@@ -1,4 +1,4 @@
 ---
 title: Home Appraisals
-network: realestate
+category: realestate
 ---

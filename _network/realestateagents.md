@@ -1,4 +1,4 @@
 ---
 title: Real Estate
-network: realestate
+category: realestate
 ---

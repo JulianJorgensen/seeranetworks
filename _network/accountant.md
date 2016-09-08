@@ -1,5 +1,5 @@
 ---
 title: Accountant
-network: business
+category: business
 ---
 

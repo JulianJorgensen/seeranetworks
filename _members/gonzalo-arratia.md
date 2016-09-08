@@ -4,7 +4,7 @@ is_company: false
 name: Gonzalo Arratia
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 778-926-3526
 email: gonzalorealty@outlook.com
 image_path:

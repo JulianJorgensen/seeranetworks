@@ -4,7 +4,7 @@ is_company: false
 name: Alex Jopson
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 604-626-1483
 email: alex@citytosuburb.ca
 image_path:

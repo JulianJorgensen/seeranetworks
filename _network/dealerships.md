@@ -1,4 +1,4 @@
 ---
 title: Dealerships
-network: automobile
+category: automobile
 ---

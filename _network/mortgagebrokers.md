@@ -1,5 +1,5 @@
 ---
 title: Mortgage Brokers
-network: finance
+category: finance
 ---
 

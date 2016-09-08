@@ -4,7 +4,7 @@ is_company: false
 name: Melanie Orban
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: realestateagents
+network: realestateagents
 phoneOffice: 778-788-0154
 email: sold@melanieorban.ca
 image_path:

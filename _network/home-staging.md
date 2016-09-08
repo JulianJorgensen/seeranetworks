@@ -1,5 +1,5 @@
 ---
 title: Home staging
-network: interiordesign
+category: interiordesign
 ---
 

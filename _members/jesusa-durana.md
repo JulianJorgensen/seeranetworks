@@ -3,7 +3,7 @@ active: true
 name: Jesusa Durana
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
-category: Real Estate
+network: Real Estate
 phoneOffice: 604-805-2547
 email: jdurana@sutton.com
 image_path:

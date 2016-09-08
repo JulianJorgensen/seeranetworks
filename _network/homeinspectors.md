@@ -1,4 +1,4 @@
 ---
 title: Home Inspectors
-network: realestate
+category: realestate
 ---

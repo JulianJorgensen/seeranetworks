@@ -1,5 +1,5 @@
 ---
 title: Web Designer
-network: business
+category: business
 ---
 

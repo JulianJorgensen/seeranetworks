@@ -1,4 +1,4 @@
 ---
 title: Travel
-network: business
+category: business
 ---

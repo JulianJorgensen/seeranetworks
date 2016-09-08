@@ -1,4 +1,4 @@
 ---
 title: Property Management
-network: realestate
+category: realestate
 ---

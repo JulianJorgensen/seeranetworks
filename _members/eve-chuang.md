@@ -4,7 +4,7 @@ is_company: false
 name: Eve Chuang
 contactTitle: Real Estate
 company: Macdonald Realty Ltd.
-category: realestateagents
+network: realestateagents
 phoneOffice: 778-881-9771
 email: eve@evechuang.com
 image_path:
