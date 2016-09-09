@@ -7,12 +7,16 @@ layout: layout
     {% include navbar.html %}
   </div>
   <div class="main-wrapper">
+    {% if page.class != "home" %}
       <h1>{{ page.title }}</h1>
+    {% endif %}
 
-      <main class="main-content">
-        {{ content }}
-      </main>
+    <main class="main-content">
+      {{ content }}
+    </main>
 
+    {% if page.class != "home" %}
       {% include footer.html %}
+    {% endif %}
   </div>
 </div>

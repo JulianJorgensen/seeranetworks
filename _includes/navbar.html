@@ -3,7 +3,11 @@
       <div class="row">
         <a href="/">
           <div class="col-xs-8 col-sm-12 logo">
-            <img src="/images/seeralogo.jpg" alt="Seera Networks logo" />
+            {% if page.color == "white" %}
+            <img src="/images/seeralogo-white.png" alt="Seera Networks logo" />
+            {% else %}
+            <img src="/images/seeralogo.png" alt="Seera Networks logo" />
+            {% endif %}
           </div>
         </a>
         <div class="col-xs-4 visible-xs text-right">

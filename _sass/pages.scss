@@ -4,13 +4,17 @@
   background-size: cover;
   .main-wrapper{
     background: none;
-    .container{
-      display: none;
+  }
+  .sidebar-left{
+    background: rgba($white, 0);
+    .sidebar-left-inner .nav li a{
+      color: $white;
+      &:hover{
+        color: $brand-primary;
+      }
     }
   }
 }
-
-// HOW TO JOIN
 
 
 // CONTACT
