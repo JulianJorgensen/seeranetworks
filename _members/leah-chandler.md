@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Leah Chandler
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-317-0971
+email: leahchandler-82@yahoo.ca
 image_path:
 color:
 website:
