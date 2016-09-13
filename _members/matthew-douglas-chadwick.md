@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Matthew Douglas Chadwick
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-928-4281
+email: matthewdouglaschadwick@gmail.com
 image_path:
 color:
 website:
