@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Michael Zhang
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-808-6887
+email: zhyjun@yahoo.com
 image_path:
 color:
 website:
