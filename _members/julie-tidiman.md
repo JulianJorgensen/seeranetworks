@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Julie Tidiman
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-626-6066
+email: julie@sutton.com
 image_path:
 color:
 website:
