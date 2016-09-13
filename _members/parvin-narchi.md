@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Parvin Narchi
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-790-7484
+email: narchiinfo@gmail.com
 image_path:
 color:
 website:
