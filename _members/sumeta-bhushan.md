@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Sumeta Bhushan
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-433-5056
+email: sumeta.omd@gmail.com
 image_path:
 color:
 website:
