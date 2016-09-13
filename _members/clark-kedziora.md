@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Clark Kedziora
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-836-6944
+email: clarkkedziora@gmail.com
 image_path:
 color:
 website:
