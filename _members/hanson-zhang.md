@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Hanson Zhang
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-898-2308
+email: zhanghanson@hotmail.com
 image_path:
 color:
 website:
