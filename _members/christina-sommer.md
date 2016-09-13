@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Christina Sommer
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-552-5678
+email: foobboof@yahoo.com
 image_path:
 color:
 website:
