@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Al Karmali
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-802-4663
+email: alkarmali@telus.net
 image_path:
 color:
 website:
