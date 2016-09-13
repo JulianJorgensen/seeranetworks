@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Sam Mattei
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-616-3239
+email: samm@royalty.ca
 image_path:
 color:
 website:
