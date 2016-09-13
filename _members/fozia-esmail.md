@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Fozia Esmail
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-728-3147
+email: foziaesmail21@gmail.com
 image_path:
 color:
 website:
