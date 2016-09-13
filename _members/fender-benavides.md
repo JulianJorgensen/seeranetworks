@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Fender Benavides
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-369-5400
+email: fender.benander@hotmail.com
 image_path:
 color:
 website:
