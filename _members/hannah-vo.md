@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Hannah Vo
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-298-1611
+email: hannahvohv@yahoo.ca
 image_path:
 color:
 website:
