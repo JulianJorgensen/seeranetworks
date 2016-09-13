@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Malcolm Reith
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-987-5858
+email: globalsalesmanagement@gmail.com
 image_path:
 color:
 website:
