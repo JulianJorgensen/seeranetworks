@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Teresa Colleen Triggiano
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-527-1197
+email: teresatriggiano@yahoo.ca
 image_path:
 color:
 website:
