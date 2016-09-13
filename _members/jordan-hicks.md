@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Jordan Hicks
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-223-1302
+email: jordan23hicks@hotmail.com
 image_path:
 color:
 website:
