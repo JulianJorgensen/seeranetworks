@@ -7,7 +7,7 @@ company:
 network:
   - realestateagents
 phoneOffice: 604-721-8399
-email: jason@jasonchen.ca
+email: jason@jasonchan.ca
 image_path:
 color:
 website:
