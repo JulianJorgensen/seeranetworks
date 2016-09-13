@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Masoud Moradian
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-836-5035
+email: moradian@shaw.ca
 image_path:
 color:
 website:
