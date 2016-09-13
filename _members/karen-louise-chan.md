@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Karen Louise Chan
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-838-7222
+email: karenlchan88@gmail.com
 image_path:
 color:
 website:
