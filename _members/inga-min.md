@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Inga Min
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-506-5249
+email: inga@ingamin.com
 image_path:
 color:
 website:
