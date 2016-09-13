@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Jason Chan
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-721-8399
+email: jason@jasonchen.ca
 image_path:
 color:
 website:
