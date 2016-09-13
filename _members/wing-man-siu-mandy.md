@@ -1,13 +1,13 @@
 ---
 active: true
 is_company: false
-name: Wing Man Siu (Mandy)
-contactTitle:
+name: Wing Man (Mandy) Siu
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-999-7040
+email: mandywingmansiu@gmail.com
 image_path:
 color:
 website:
