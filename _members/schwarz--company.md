@@ -9,7 +9,7 @@ network:
 phoneOffice: 604-942-8880
 email:
 image_path: '/uploads/schwarz & company logo.jpg'
-color:
+color: '#171717'
 website: www.schwarzlegal.ca
 profile_image_path: /images/person.png
 ---
