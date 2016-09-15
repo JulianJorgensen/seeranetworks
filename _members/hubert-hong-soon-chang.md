@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Hubert (Hong Soon) Chang
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Dexter
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-537-3956
+email: hubertcsutton@gmail.com
 image_path:
 color:
 website:
