@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Pouya Ghazi
-contactTitle:
+contactTitle: Real Estate
 company:
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-782-5896
+email: ghazipouya@gmail.com
 image_path:
 color:
 website:
