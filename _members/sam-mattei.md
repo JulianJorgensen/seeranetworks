@@ -3,7 +3,7 @@ active: true
 is_company: false
 name: Sam Mattei
 contactTitle: Real Estate
-company:
+company: Royalty Group Realty
 network:
   - realestateagents
 phoneOffice: 604-616-3239
