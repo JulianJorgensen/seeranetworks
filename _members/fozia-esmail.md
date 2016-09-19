@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 name: Fozia Esmail
 contactTitle: Real Estate
