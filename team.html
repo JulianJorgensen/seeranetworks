@@ -4,6 +4,7 @@ title: Our team
 permalink: /team/
 group: navigation
 weight: 1
+class: team
 ---
 
 <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_data/team.yml">Add/edit team members</a></p>
@@ -20,7 +21,8 @@ weight: 1
         <ul>
           {% if item.contactTitle %}<li>{{ item.contactTitle }}</li>{% endif %}
           {% if item.title %}<li class="uc">{{ item.title }}</li>{% endif %}
-          {% if item.phoneOffice %}<li class="uc">{{ item.phoneOffice }}</li>{% endif %}
+          {% if item.phoneOffice %}<li class="uc">{{ item.phoneOffice }} (office)</li>{% endif %}
+          {% if item.phoneCell %}<li class="uc">{{ item.phoneCell }} (cell)</li>{% endif %}
           {% if item.email %}<li><i class="fa fa-envelope"></i> <a href="mailto:{{ item.email }}">{{ item.email }}</a></li>{% endif %}
         </ul>
       </div>
