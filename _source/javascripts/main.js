@@ -13,14 +13,14 @@ $(document).ready(function($) {
   });
 
   // our members subnav
-  $(window).on("scroll", function(e) {
-    console.log($(window).scrollTop());
-    if ($(window).scrollTop() > 150) {
-      $(".members-subnav").addClass("fixed");
-    }else{
-      $(".members-subnav").removeClass("fixed");
-    }
-  });
+  // $(window).on("scroll", function(e) {
+  //   console.log($(window).scrollTop());
+  //   if ($(window).scrollTop() > 150) {
+  //     $(".members-subnav").addClass("fixed");
+  //   }else{
+  //     $(".members-subnav").removeClass("fixed");
+  //   }
+  // });
 
   // mobile nav
   $('.mobile-nav').on('click', function(e){
