@@ -23,8 +23,6 @@ collections:
   network:
     output: true
     _hide_content: true
-  testimonials:
-    output: false
   news:
     output: true
 
@@ -41,12 +39,6 @@ defaults:
       type: "network"
     values:
       layout: "category"
-  -
-    scope:
-      path: ""
-      type: "testimonials"
-    values:
-      layout: "post"
   -
     scope:
       path: ""
