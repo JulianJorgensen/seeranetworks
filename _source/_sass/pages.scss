@@ -8,6 +8,7 @@
   .sidebar-left{
     background: rgba($white, 0);
     .sidebar-left-inner .nav li a{
+      font-size: 1.8rem;
       color: $white;
       &:hover{
         color: $brand-primary;
