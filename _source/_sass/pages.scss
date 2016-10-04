@@ -5,7 +5,18 @@
   .main-wrapper{
     background: none;
   }
+  .overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 30vw;
+    height: 100vh;
+    z-index: 2;
+    @include gradient-horizontal($start-color: rgba($black,.5), $end-color: rgba($black,.0001));
+  }
   .sidebar-left{
+    position: absolute;
+    z-index: 3;
     background: rgba($white, 0);
     .sidebar-left-inner .nav li a{
       font-size: 1.8rem;

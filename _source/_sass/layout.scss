@@ -2,26 +2,28 @@ body{
   min-height: 100vh;
   overflow-x: hidden;
   @include transition(0.2s left);
-  background: url("/images/origami-bg.jpg") 0 0 repeat;
+  background: url("/images/origami-bg-bw.jpg") 0 0 repeat;
 
   &.mobile-nav-expanded{
     position: relative;
-    left: -75vw;
+    left: -80vw;
   }
 }
 
 .site-layout{
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  @media(min-width: $screen-md){
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
 
-  .sidebar-left{
-    flex: 0 0 25%;
-  }
+    .sidebar-left{
+      flex: 0 0 25%;
+    }
 
-  .main-wrapper{
-    flex: 0 0 75%;
-    padding-bottom: 20px;
+    .main-wrapper{
+      flex: 0 0 75%;
+      padding-bottom: 20px;
+    }
   }
 }
 
@@ -30,7 +32,7 @@ body{
 }
 
 .main-wrapper{
-  background: rgba($brand-primary,0.7) url("/images/bg-logo.png") bottom right no-repeat;
+  background: rgba($sapphire,0.7) url("/images/bg-logo.png") bottom right no-repeat;
   color: $white;
   min-height: calc(100vh - 85px);
 

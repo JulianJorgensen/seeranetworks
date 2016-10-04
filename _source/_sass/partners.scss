@@ -127,6 +127,10 @@
 }
 
 .member{
-  width: calc(50% - 20px);
-  margin-right: 20px;
+  width: 100%;
+
+  @media (min-width: $screen-md){
+    width: calc(50% - 20px);
+    margin-right: 20px;
+  }
 }

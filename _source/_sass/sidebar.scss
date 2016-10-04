@@ -4,7 +4,6 @@
 }
 
 .sidebar-left-inner{
-  position: fixed;
   padding: 10px 0px;
 
   @media(min-width: $screen-sm){
@@ -21,7 +20,7 @@
     }
 
     h1, h2{
-      color: $brand-primary;
+      color: $sapphire;
       margin: 0;
     }
 
@@ -64,7 +63,7 @@
       @include user-select(none);
 
       a{
-        color: $brand-primary;
+        color: $sapphire;
         display: block;
         padding: 10px;
       }
@@ -75,13 +74,13 @@
         padding-left: 15px;
 
         .accordion-toggle.active{
-          color: $brand-primary;
+          color: $sapphire;
           font-weight: 600;
         }
 
         &.active{
           li a{
-            color: $brand-primary;
+            color: $sapphire;
           }
         }
 
@@ -96,7 +95,7 @@
     li.active{
       background-color: #eee;
       > a{
-        color: $brand-primary;
+        color: $sapphire;
         font-weight: 600;
       }
     }
@@ -113,7 +112,7 @@ body.mobile-nav-expanded{
     display: block;
     position: absolute;
     top: 0;
-    right: -70vw;
+    right: -80vw;
   }
 }
 

@@ -1,19 +1,20 @@
 <aside class="sidebar-left-inner">
-    <header>
-      <div class="row">
-          <div class="col-xs-8 col-sm-12 logo">
-            <a href="/">
-            {% if page.url == "/" %}
-              <img src="/images/seeralogo-white.png" alt="Seera Networks logo" />
-            {% else %}
-              <img src="/images/seeralogo.png" alt="Seera Networks logo" />
-            {% endif %}
-            </a>
-          </div>
-        <div class="col-xs-4 visible-xs text-right">
-          <a href="javascript:void(0)" class="mobile-nav"><i class="fa fa-bars"></i></a>
-        </div>
-    </header>
+  <header>
+    <div class="row">
+    <div class="col-xs-8 col-sm-12 logo">
+      <a href="/">
+      {% if page.url == "/" %}
+        <img src="/images/seeralogo-white.png" alt="Seera Networks logo" />
+      {% else %}
+        <img src="/images/seeralogo-blue.png" alt="Seera Networks logo" />
+      {% endif %}
+      </a>
+    </div>
+    <div class="col-xs-4 visible-xs text-right">
+      <a href="javascript:void(0)" class="mobile-nav"><i class="fa fa-bars"></i></a>
+    </div>
+    </div>
+  </header>
 
   <ul class="nav">
     {% for item in site.data.nav %}
