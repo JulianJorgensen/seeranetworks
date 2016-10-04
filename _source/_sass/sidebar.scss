@@ -1,12 +1,55 @@
+.mobile-nav-content{
+  position: absolute;
+  opacity: 0;
+  top: -100vh;
+  background-color: $white;
+  width: 100%;
+  text-align: center;
+  padding-top: 105px;
+  z-index: 3;
+  @include transition((top 0.2s, opacity 0.2s));
+
+  ul{
+    list-style-type: none;
+    padding-left: 0;
+    padding-bottom: 20px;
+
+    li{
+      padding-top: 15px;
+      a{
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+body.mobile-nav-expanded{
+  .mobile-nav-content{
+    opacity: 1;
+    top: 0;
+  }
+}
+
 .sidebar-left{
   background-color: $white;
-  overflow-y: auto;
+  width: 100%;
+
+  @media(min-width: $screen-md){
+    &, .container{
+      width: auto;
+    }
+    overflow-y: auto;
+  }
+
+  header{
+    height: 80px;
+  }
 }
 
 .sidebar-left-inner{
   padding: 10px 0px;
 
-  @media(min-width: $screen-sm){
+  @media(min-width: $screen-md){
     height: 100vh;
   }
 
@@ -14,9 +57,20 @@
     padding: 20px 25px;
   }
 
+  .container{
+    width: 100%;
+  }
+
   .logo{
+    position: relative;
+    z-index: 9;
     @media(min-width: $screen-sm){
       // text-align: center;
+    }
+
+    .seera-logo-white,
+    .seera-logo-blue{
+      position: absolute;
     }
 
     h1, h2{
@@ -54,7 +108,7 @@
   .nav{
     margin: 30px 0;
 
-    @media(max-width: $screen-sm){
+    @media(max-width: $screen-md){
       display: none;
     }
 
@@ -105,15 +159,8 @@
 .mobile-nav{
   font-size: 3em;
   line-height: 60px;
-}
-
-body.mobile-nav-expanded{
-  .sidebar-left-inner .nav{
-    display: block;
-    position: absolute;
-    top: 0;
-    right: -80vw;
-  }
+  position: relative;
+  z-index: 9;
 }
 
 @media (max-width: $screen-sm){

@@ -6,13 +6,28 @@ group: navigation
 weight: 1
 ---
 
-<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit members</a></p>
-
 {% assign collection = site.members | sort: "name" %}
+
+<div class="members-subnav">
+  {% for item in collection %}
+    {% assign firstLetter = item.name | slice: 0 %}
+    {% if firstLetter != previousFirstLetter %}
+      <a href="#{{ firstLetter }}">{{ firstLetter }}</a>
+      {% assign previousFirstLetter = firstLetter %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit members</a></p>
 
 <div class="row our-members">
   <div class="col-lg-12">
   {% for item in collection %}
+    {% assign firstLetter = item.name | slice: 0 %}
+    {% if firstLetter != previousFirstLetter %}
+      <a name="{{ firstLetter }}" /></a>
+      {% assign previousFirstLetter = firstLetter %}
+    {% endif %}
     <div class="member">
       <div class="profile-image" style="background-image:url({{ item.profile_image_path }});"></div>
 

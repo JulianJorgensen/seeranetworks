@@ -3,11 +3,6 @@ body{
   overflow-x: hidden;
   @include transition(0.2s left);
   background: url("/images/origami-bg-bw.jpg") 0 0 repeat;
-
-  &.mobile-nav-expanded{
-    position: relative;
-    left: -80vw;
-  }
 }
 
 .site-layout{
@@ -67,10 +62,15 @@ body{
 
 // google translate
 #google_translate_element{
+  display: none;
   position: absolute;
   top: 0;
   right: 20px;
   opacity: 0.8;
+
+  @media(min-width: $screen-md){
+    display: block;
+  }
 
   .goog-te-gadget-icon{
     display: none;

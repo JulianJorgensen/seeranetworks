@@ -97,6 +97,7 @@
   min-height: 113px;
   .profile-info{
     float: left;
+    max-width: calc(100% - 165px);
   }
   .profile-image{
     margin-right: 15px;
@@ -115,6 +116,24 @@
     li{
 
     }
+  }
+}
+
+.our-members{
+  margin-top: 60px;
+}
+
+.members-subnav{
+  background-color: $white;
+  position: absolute;
+  z-index: 99;
+  padding: 10px;
+  &.fixed{
+    position: fixed;
+    top: 0;
+  }
+  a{
+    color: $brand-primary;
   }
 }
 

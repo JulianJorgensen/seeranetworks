@@ -8,6 +8,7 @@ weight: 6
 
 <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_properties/">Add/edit properties</a></p>
 
+{% if site.properties.length > 0 %}
 <div class="row">
   <div class="col-lg-8">
     <ul class="properties">
@@ -16,5 +17,9 @@ weight: 6
     </ul>
   </div>
 </div>
+{% else %}
+<h2>There are currently no weekly picks</h2>
+{% endif %}
+
 
 <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_properties/">Add/edit properties</a></p>

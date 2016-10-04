@@ -6,6 +6,7 @@
     background: none;
   }
   .overlay{
+    display: none;
     position: absolute;
     left: 0;
     top: 0;
@@ -13,7 +14,25 @@
     height: 100vh;
     z-index: 2;
     @include gradient-horizontal($start-color: rgba($black,.5), $end-color: rgba($black,.0001));
+
+    @media (min-width: $screen-md){
+      display: block;
+    }
   }
+
+  .seera-logo-blue{
+    display: none;
+  }
+
+  &.mobile-nav-expanded{
+    .seera-logo-white{
+      display: none;
+    }
+    .seera-logo-blue{
+      display: block;
+    }
+  }
+
   .sidebar-left{
     position: absolute;
     z-index: 3;
@@ -48,7 +67,9 @@
 
   footer{
     color: #e8e8e8;
+    margin-top: 5px;
     display: block;
+    opacity: 0.8;
   }
 }
 
@@ -84,5 +105,11 @@
   .profile-info,
   .profile-info h5{
     font-size: 2rem;
+  }
+}
+
+.page-contact{
+  .well{
+    font-size: 1.8rem;
   }
 }

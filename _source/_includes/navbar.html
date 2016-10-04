@@ -1,18 +1,51 @@
+<nav class="mobile-nav-content">
+  <ul>
+    {% for item in site.data.nav %}
+      {% if item.url == "network" %}
+        <li class="accordion" {% if page.layout == 'category' %}class="active"{% endif %}>
+          <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
+          <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
+            <ul>
+              {% assign primary_categories = site.data.categories %}
+              {% for category in primary_categories %}
+
+                {% assign categoryTitle = category.title | downcase | replace:" ","" %}
+
+                <li class="accordion {% if category.title == page.title %}active{% endif %}">
+                  <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
+                  <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
+                    {% for subcategory in site.network %}
+                      {% if subcategory.category == categoryTitle %}
+                        <li {% if subcategory.title == page.title %}class="active"{% endif %}><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+      {% else %}
+        <li {% if page.url == item.url %}class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
 <aside class="sidebar-left-inner">
   <header>
-    <div class="row">
-    <div class="col-xs-8 col-sm-12 logo">
-      <a href="/">
-      {% if page.url == "/" %}
-        <img src="/images/seeralogo-white.png" alt="Seera Networks logo" />
-      {% else %}
-        <img src="/images/seeralogo-blue.png" alt="Seera Networks logo" />
-      {% endif %}
-      </a>
-    </div>
-    <div class="col-xs-4 visible-xs text-right">
-      <a href="javascript:void(0)" class="mobile-nav"><i class="fa fa-bars"></i></a>
-    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-8 col-md-12 logo">
+          <a href="/">
+            <img class="seera-logo-white" src="/images/seeralogo-white.png" alt="Seera Networks logo" />
+            <img class="seera-logo-blue" src="/images/seeralogo-blue.png" alt="Seera Networks logo" />
+          </a>
+        </div>
+        <div class="col-xs-4 hidden-lg text-right">
+          <a href="javascript:void(0)" class="mobile-nav"><i class="fa fa-bars"></i></a>
+        </div>
+      </div>
     </div>
   </header>
 
