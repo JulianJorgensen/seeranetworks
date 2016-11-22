@@ -9,7 +9,7 @@ email: anthea@antheapoon.com
 image_path:
 color:
 website:
-profile_image_path: /uploads/web.jpg
+profile_image_path:
 ---
 
 
