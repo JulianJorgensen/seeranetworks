@@ -7,7 +7,7 @@ company: Remax Masters Realty
 network:
   - realestateagents
 phoneOffice: 604-764-0990
-email: jacquie@socialmedia-canada.com
+email: info@northshorehomesales.com
 image_path:
 color:
 website:
