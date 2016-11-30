@@ -7,7 +7,7 @@ url: "http://seeranetworks.com" # the base hostname & protocol for your site
 markdown: kramdown
 version: 3.2.1
 
-source: ./_source
+source: ./source
 permalink: pretty
 
 # Pretty URL
