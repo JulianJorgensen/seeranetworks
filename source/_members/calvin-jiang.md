@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Calvin Jiang
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Royal Pacific Realty- Oakridge
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-961-1698
+email: calvinj123@hotmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Headshot.jpg
 ---
