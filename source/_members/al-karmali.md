@@ -3,7 +3,7 @@ active: true
 is_company: false
 name: Al Karmali
 contactTitle: Real Estate
-company:
+company: Sutton Grp West Coast Realty- Coq
 network:
   - realestateagents
 phoneOffice: 604-802-4663
