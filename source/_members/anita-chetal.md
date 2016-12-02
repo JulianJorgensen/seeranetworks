@@ -5,6 +5,7 @@ name: Anita Chetal
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty- Coq
 network:
+  - realestateagents
 phoneOffice: 778-833-4663
 email: anita@anitachetal.com
 image_path:
