@@ -11,5 +11,5 @@ email: anita@anitachetal.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Headshot 2.jpg
 ---
