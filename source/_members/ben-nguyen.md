@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Ben Nguyen
-contactTitle:
-company:
+contactTitle: Real Estate
+company: 'Century 21 Intown, Yaletown'
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: (604) 685-5951
+email: banglongnguyen@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Ben Nguyen web.jpg
 ---
