@@ -3,7 +3,7 @@ active: true
 is_company: false
 name: Hannah Vo
 contactTitle: Real Estate
-company:
+company: Century 21 In Town Realty
 network:
   - realestateagents
 phoneOffice: 604-298-1611
