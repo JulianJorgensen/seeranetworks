@@ -11,5 +11,5 @@ email: anurajbal@citylinkteam.com
 image_path:
 color:
 website:
-profile_image_path: /uploads/Headshot web.jpg
+profile_image_path: /uploads/Headshot web anuraj.jpg
 ---
