@@ -11,5 +11,5 @@ email: alkarmali@telus.net
 image_path:
 color:
 website:
-profile_image_path: /uploads/Headshot.jpg
+profile_image_path: /uploads/Headshot Al.jpg
 ---
