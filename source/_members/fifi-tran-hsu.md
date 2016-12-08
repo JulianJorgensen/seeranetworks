@@ -10,7 +10,7 @@ email: frank_liub@yahoo.com
 image_path:
 color:
 website:
-profile_image_path:
+profile_image_path: /uploads/Headshot web frank.jpg
 ---
 
 
