@@ -10,7 +10,7 @@ email: fleung50@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Head Shot (Francis Leung) web.jpg
 ---
 
 
