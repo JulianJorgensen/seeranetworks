@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Erica Rendell
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Remax Crest Westside Realty
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-724-0725
+email: ericarendell@telus.net
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/headshot web erica_Page_1.jpeg
 ---
