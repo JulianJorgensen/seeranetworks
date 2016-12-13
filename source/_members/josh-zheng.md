@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Josh Zheng
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Nu Stream
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-712-2628
+email: jwzheng@live.ca
 image_path:
 color:
 website:
