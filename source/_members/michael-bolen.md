@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Michael Bolen
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Keller Williams Black Diamond- Burnaby
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-841-7074
+email: info@michaelbolen.ca
 image_path:
 color:
 website:
