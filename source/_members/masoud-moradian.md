@@ -3,7 +3,7 @@ active: true
 is_company: false
 name: Masoud Moradian
 contactTitle: Real Estate
-company:
+company: Sutton Group West Coast
 network:
   - realestateagents
 phoneOffice: 778-836-5035
