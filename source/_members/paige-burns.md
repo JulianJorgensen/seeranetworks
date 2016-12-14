@@ -5,7 +5,7 @@ name: Paige Burns
 contactTitle: Assistant
 company: Doc Livingston
 network:
-  -
+  - realestateagents
 phoneOffice: 604-6268565
 email: paigeburns15@gmail.com
 image_path:
