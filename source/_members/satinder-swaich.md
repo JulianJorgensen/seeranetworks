@@ -2,7 +2,7 @@
 active: true
 is_company: false
 name: Satinder Swaich
-contactTitle: Real Estat
+contactTitle: Real Estate
 company: Sutton Grp West Coast Realty- Coq
 network:
   - realestateagents
