@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Anya Gadison
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Team 3000 - North Van
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-816-0735
+email: gadison.a@yahoo.ca
 image_path:
 color:
 website:
