@@ -2,12 +2,12 @@
 active: true
 is_company: false
 name: Semiral (Sam) Tuncer
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Alliance First Realty- Van
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 604-347-8707
+email: semiral@live.com
 image_path:
 color:
 website:
