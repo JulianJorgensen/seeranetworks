@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Tony Vo
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty- Coq
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 1-780-807-6464
+email: tonyvo@citylinkteam.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Headshot tony vo.jpg
 ---
