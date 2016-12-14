@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Fifi Tran-Hsu
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Sutton Group West Coast - Coq
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-772-2229
+email: fifih@sutton.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Headshot Fifi.jpg
 ---
