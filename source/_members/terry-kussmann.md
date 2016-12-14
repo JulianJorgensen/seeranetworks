@@ -11,5 +11,5 @@ email: terry@downtownrealty.com
 image_path:
 color:
 website:
-profile_image_path: /uploads/headshot (terry kussman).jpg
+profile_image_path: /uploads/headshot terry.jpg
 ---
