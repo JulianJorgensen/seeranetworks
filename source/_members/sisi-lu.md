@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Sisi Lu
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty- Coq
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-378-8909
+email: sisi@sisilu.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Headshot sisi.jpg
 ---
