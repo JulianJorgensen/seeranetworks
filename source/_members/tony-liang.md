@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Tony Liang
+name: Tony  (Yanan) Liang
 contactTitle: Real Estate
 company: 'Sutton Grp West Coast- E49, Van'
 network:
