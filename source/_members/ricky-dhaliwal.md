@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Ricky Dhaliwal
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Sutton Grp West Coast Realty - Langley
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-242-4306
+email: rickyd@sutton.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/headshot ricky.jpg
 ---
