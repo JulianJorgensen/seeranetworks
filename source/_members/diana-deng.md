@@ -11,5 +11,5 @@ email: dengdiana@hotmail.com
 image_path:
 color:
 website:
-profile_image_path: /uploads/Headshot.jpg
+profile_image_path: /uploads/diana headshot.jpg
 ---
