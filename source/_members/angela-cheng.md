@@ -2,14 +2,14 @@
 active: true
 is_company: false
 name: Angela Cheng
-contactTitle:
-company:
+contactTitle: Real Estate
+company: Sutton Group West Coast Realty - Coq
 network:
-  -
-phoneOffice:
-email:
+  - realestateagents
+phoneOffice: 778-858-0887
+email: angela8580887@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Angela Cheng.jpg
 ---
