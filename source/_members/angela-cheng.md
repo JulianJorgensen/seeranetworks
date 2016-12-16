@@ -11,5 +11,5 @@ email: angela8580887@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /uploads/Angela Cheng.jpg
+profile_image_path: /uploads/Angela Cheng headshot.jpg
 ---
