@@ -7,7 +7,7 @@ company: Multiple Realty
 network:
   - realestateagents
 phoneOffice: 604-537-2050
-email:
+email: wilsonchanrealtor@hotmail.com
 image_path:
 color:
 website:
