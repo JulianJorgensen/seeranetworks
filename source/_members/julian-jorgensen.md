@@ -7,7 +7,7 @@ company: JORGENSEN
 network:
   - web-designer
 phoneOffice: '6044452909'
-email: julian@goldenchai.com
+email: me@julianjorgensen.com
 image_path:
 color: '#decd07'
 website: julianjorgensen.com
