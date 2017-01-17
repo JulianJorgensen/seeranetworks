@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jordan Hicks
+fullname: Jordan Hicks
 contactTitle: Real Estate
 company:
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Eve Chuang
+fullname: Eve Chuang
 contactTitle: Real Estate
 company: Macdonald Realty Ltd.
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Sharon Davis
+fullname: Sharon Davis
 contactTitle: "Mortgage Planner/Partner"
 company: INNOVATIVE MORTGAGE SOLUTIONS
 network:

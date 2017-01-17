@@ -1,6 +1,6 @@
 ---
 active: true
-name: Anthea Poon
+fullname: Anthea Poon
 contactTitle: Real Estate
 company: Remax Select Realty
 network:

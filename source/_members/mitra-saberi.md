@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Mitra Saberi
+fullname: Mitra Saberi
 contactTitle: Real Estate
 company: Evergreen West Realty
 network:

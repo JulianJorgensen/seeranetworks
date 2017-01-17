@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Gonzalo Arratia
+fullname: Gonzalo Arratia
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

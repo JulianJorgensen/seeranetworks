@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Mahindra Shah
+fullname: Mahindra Shah
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

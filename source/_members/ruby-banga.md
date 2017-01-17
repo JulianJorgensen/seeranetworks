@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Ruby Banga
+fullname: Ruby Banga
 contactTitle: Real Estate
 company: Keller Williams Black Diamond Realty
 network:

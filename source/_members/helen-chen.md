@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Helen Chen
+fullname: Helen Chen
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty -Coq
 network:

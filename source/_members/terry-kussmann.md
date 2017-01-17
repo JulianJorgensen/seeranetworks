@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Terry Kussmann
+fullname: Terry Kussmann
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty Broadway
 network:

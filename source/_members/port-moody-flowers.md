@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Celia Chiang
+fullname: Celia Chiang
 contactTitle: Owner
 company: Port Moody Flowers
 network:

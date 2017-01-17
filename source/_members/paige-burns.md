@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Paige Burns
+fullname: Paige Burns
 contactTitle: Assistant
 company: Doc Livingston
 network:

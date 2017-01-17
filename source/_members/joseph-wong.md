@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Joseph Wong
+fullname: Joseph Wong
 contactTitle: Real Estate
 company: Sutton Grp West Coast
 network:

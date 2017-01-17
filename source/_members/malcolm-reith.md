@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Malcolm Reith
+fullname: Malcolm Reith
 contactTitle: Real Estate
 company:
 network:

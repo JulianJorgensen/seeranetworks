@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Sedi Minachi
+fullname: Sedi Minachi
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

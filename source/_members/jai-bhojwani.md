@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jai Bhojwani
+fullname: Jai Bhojwani
 contactTitle: Real Estate
 company: Luxmore Realty
 network:

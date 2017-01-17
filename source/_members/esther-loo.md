@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Esther Loo
+fullname: Esther Loo
 contactTitle: Assistant
 company: Jessica Chen PREC
 network:

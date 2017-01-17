@@ -1,6 +1,6 @@
 ---
 active: true
-name: Rahman Waheed
+fullname: Rahman Waheed
 contactTitle: Real Estate
 company: Sutton Grp West coast Realty
 network:

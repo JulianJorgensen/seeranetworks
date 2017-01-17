@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: test
+fullname: Test Ma
 contactTitle:
 company:
 network:

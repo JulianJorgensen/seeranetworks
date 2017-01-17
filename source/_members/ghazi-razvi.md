@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Ghazi Razvi
+fullname: Ghazi Razvi
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty - Coq
 network:

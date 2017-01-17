@@ -1,6 +1,6 @@
 ---
 active: true
-name: Helen (Hung) Lou
+fullname: Helen (Hung) Lou
 contactTitle: Real Estate
 company:
 network:

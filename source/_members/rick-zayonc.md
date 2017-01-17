@@ -1,6 +1,6 @@
 ---
 active: true
-name: Rick Zayonc
+fullname: Rick Zayonc
 contactTitle: Real Estate
 company: Sutton Grp West coast Realty
 network:

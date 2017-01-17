@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jennifer Shi
+fullname: Jennifer Shi
 contactTitle: Real Estate
 company: Remax Masters Realty
 network:

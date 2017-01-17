@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Andrew Wan
+fullname: Andrew Wan
 contactTitle: Real Estate
 company: Oakwyn Realty
 network:

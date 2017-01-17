@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Thipphaphon Wang
+fullname: Thipphaphon Wang
 contactTitle: Assistant
 company: Douglas Wang
 network:

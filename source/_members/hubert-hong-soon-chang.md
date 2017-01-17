@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Hubert (Hong Soon) Chang
+fullname: Hubert (Hong Soon) Chang
 contactTitle: Real Estate
 company: Dexter
 network:

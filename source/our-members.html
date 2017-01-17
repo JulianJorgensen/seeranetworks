@@ -6,11 +6,11 @@ group: navigation
 weight: 1
 ---
 
-{% assign collection = site.members | sort: "name" %}
+{% assign members = site.members | sort: "fullname" %}
 
 <!-- <div class="members-subnav">
-  {% for item in collection %}
-    {% assign firstLetter = item.name | slice: 0 %}
+  {% for item in members %}
+    {% assign firstLetter = item.fullname | slice: 0 %}
     {% if firstLetter != previousFirstLetter %}
       <a href="#{{ firstLetter }}">{{ firstLetter }}</a>
       {% assign previousFirstLetter = firstLetter %}
@@ -22,17 +22,12 @@ weight: 1
 
 <div class="row our-members">
   <div class="col-lg-12">
-  {% for item in collection %}
-    {% assign firstLetter = item.name | slice: 0 %}
-    {% if firstLetter != previousFirstLetter %}
-      <a name="{{ firstLetter }}" /></a>
-      {% assign previousFirstLetter = firstLetter %}
-    {% endif %}
+  {% for item in members %}
     <div class="member">
       <div class="profile-image" style="background-image:url({{ item.profile_image_path }});"></div>
 
       <div class="profile-info">
-        <h5 class="no-spacing"><strong>{{ item.name }}</strong></h5>
+        <h5 class="no-spacing"><strong>{{ item.fullname }}</strong></h5>
         <ul>
           {% if item.contactTitle %}<li>{{ item.contactTitle }}</li>{% endif %}
           {% if item.company %}<li class="uc small">{{ item.company }}</li>{% endif %}

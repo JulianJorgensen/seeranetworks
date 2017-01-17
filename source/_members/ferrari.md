@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: 'Mark Harrison'
+fullname: 'Mark Harrison'
 contactTitle: "Sales Manager"
 company: 'Ferrari Maserati of Vancouver'
 phoneCell: '604-328-7344'

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Nico Klaver
+fullname: Nico Klaver
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

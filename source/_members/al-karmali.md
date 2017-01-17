@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Al Karmali
+fullname: Al Karmali
 contactTitle: Real Estate
 company:
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Ivy Khuu
+fullname: Ivy Khuu
 contactTitle: Real Estate
 company: Sutton Group- Winnie Lam
 network:

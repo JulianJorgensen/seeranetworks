@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Dorris Gee
+fullname: Dorris Gee
 contactTitle: Real Estate
 company: Remax Central Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Wing Man (Mandy) Siu
+fullname: Wing Man (Mandy) Siu
 contactTitle: Real Estate
 company:
 network:

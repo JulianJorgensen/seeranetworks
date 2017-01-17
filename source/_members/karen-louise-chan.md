@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Karen Louise Chan
+fullname: Karen Louise Chan
 contactTitle: Real Estate
 company:
 network:

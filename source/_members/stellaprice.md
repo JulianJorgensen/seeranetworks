@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: true
-name: Stella Price PREC
+fullname: Stella Price PREC
 contactTitle: 'Stella Price & Associates'
 company: Sutton Grp West Coast Realty
 phoneCell: 604-833-7725

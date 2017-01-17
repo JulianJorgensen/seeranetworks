@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Ricky Lam
+fullname: Ricky Lam
 contactTitle: Real Estate
 company: Regent Park Realty
 network:

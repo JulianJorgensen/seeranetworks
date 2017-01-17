@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Soudabeh Zare
+fullname: Soudabeh Zare
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Shelly Smee
+fullname: Shelly Smee
 contactTitle: Real Estate
 company: Oakwyn Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Inga Min
+fullname: Inga Min
 contactTitle: Real Estate
 company:
 network:

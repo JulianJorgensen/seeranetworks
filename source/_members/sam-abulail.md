@@ -1,6 +1,6 @@
 ---
 active: true
-name: Sam Abulail
+fullname: Sam Abulail
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

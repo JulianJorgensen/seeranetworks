@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Monty Law
+fullname: Monty Law
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

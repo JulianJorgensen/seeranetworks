@@ -1,6 +1,6 @@
 ---
 active: true
-name: Glen Yamada
+fullname: Glen Yamada
 contactTitle: Real Estate
 company: Park Georgia Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Christina Sommer
+fullname: Christina Sommer
 contactTitle: Real Estate
 company:
 network:

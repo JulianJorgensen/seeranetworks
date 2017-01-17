@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Gelareh Zarrabi PREC
+fullname: Gelareh Zarrabi PREC
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

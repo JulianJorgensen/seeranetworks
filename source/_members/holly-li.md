@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Holly Li
+fullname: Holly Li
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

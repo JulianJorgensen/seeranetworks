@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jack Sheng
+fullname: Jack Sheng
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

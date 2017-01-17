@@ -1,6 +1,6 @@
 ---
 active: true
-name: Janet Bohne
+fullname: Janet Bohne
 contactTitle: Real Estate
 company: Royal Lepage
 network:

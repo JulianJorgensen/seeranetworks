@@ -1,6 +1,6 @@
 ---
 active: false
-name: Frank Liu
+fullname: Frank Liu
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

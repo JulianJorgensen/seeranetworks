@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jerrit Bates
+fullname: Jerrit Bates
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

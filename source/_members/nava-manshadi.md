@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Nava Manshadi
+fullname: Nava Manshadi
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
 network:

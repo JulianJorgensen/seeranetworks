@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Masoud Moradian
+fullname: Masoud Moradian
 contactTitle: Real Estate
 company:
 network:

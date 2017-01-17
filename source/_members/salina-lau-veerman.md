@@ -1,6 +1,6 @@
 ---
 active: true
-name: Salina Lau-Veerman
+fullname: Salina Lau-Veerman
 contactTitle: Real Estate
 company: Prompton Real Estate Serv. Inc.
 network:

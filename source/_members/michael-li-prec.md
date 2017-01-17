@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Michael Li (PREC)
+fullname: Michael Li (PREC)
 contactTitle: Real Estate
 company: Macdonald Realty
 network:

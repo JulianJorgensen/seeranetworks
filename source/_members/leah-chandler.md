@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Leah Chandler
+fullname: Leah Chandler
 contactTitle: Real Estate
 company:
 network:

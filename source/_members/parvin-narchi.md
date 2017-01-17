@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Parvin Narchi
+fullname: Parvin Narchi
 contactTitle: Real Estate
 company:
 network:

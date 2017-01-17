@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Melanie Orban
+fullname: Melanie Orban
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

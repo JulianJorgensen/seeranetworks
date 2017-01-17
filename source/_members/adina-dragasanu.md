@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Adina Dragasanu
+fullname: Adina Dragasanu
 contactTitle: Real Estate
 company:
 network:

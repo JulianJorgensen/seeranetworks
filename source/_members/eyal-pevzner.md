@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Eyal Pevzner
+fullname: Eyal Pevzner
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
 network:

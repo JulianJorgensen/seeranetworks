@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Alex Wong
+fullname: Alex Wong
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

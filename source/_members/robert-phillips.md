@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Robert Phillips
+fullname: Robert Phillips
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Augustin Manea
+fullname: Augustin Manea
 contactTitle:
 company:
 network:

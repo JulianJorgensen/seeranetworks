@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Danny Chaho
+fullname: Danny Chaho
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

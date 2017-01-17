@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Dan Braun
+fullname: Dan Braun
 contactTitle: Real Estate
 company: Remax Select Realty
 network:

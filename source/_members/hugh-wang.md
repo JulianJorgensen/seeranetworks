@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Hugh Wang
+fullname: Hugh Wang
 contactTitle: Real Estate
 company: New Coast Realty
 network:

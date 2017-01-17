@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Larissa Van Dam
+fullname: Larissa Van Dam
 contactTitle: Real Estate
 company: Remax All Points Realty
 network:

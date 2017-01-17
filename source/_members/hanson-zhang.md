@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Hanson Zhang
+fullname: Hanson Zhang
 contactTitle: Real Estate
 company:
 network:

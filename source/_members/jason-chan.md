@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jason Chan
+fullname: Jason Chan
 contactTitle: Real Estate
 company:
 network:

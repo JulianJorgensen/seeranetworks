@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Angie Sun
+fullname: Angie Sun
 contactTitle: Real Estate
 company: Royal Pacific Riverside Realty
 network:

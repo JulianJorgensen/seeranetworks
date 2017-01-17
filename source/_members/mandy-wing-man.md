@@ -1,6 +1,6 @@
 ---
 active: true
-name: Mandy (Wing Man) Siu
+fullname: Mandy (Wing Man) Siu
 contactTitle: Real Estate
 company: Keller Williams Elite Realty
 network:

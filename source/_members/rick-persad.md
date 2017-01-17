@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Rick Persad
+fullname: Rick Persad
 contactTitle: Real Estate
 company: Keller Williams Black Diamond
 network:

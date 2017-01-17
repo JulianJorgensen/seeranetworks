@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Joanne Jonathan
+fullname: Joanne Jonathan
 contactTitle: Real Estate
 company: Magsen Realty Inc.
 network:

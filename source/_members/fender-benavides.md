@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Fender Benavides
+fullname: Fender Benavides
 contactTitle: Real Estate
 company:
 network:

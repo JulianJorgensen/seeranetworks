@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Anthony Tseng
+fullname: Anthony Tseng
 contactTitle: Real Estate
 company: Sutton Grp Westcoast Realty
 network:

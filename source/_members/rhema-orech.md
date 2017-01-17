@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Richard Bishop
+fullname: Richard Bishop
 contactTitle: Real Estate
 company: New Coast Realty
 network:

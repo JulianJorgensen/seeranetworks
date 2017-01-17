@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: 'Schwarz & Company'
+fullname: 'Schwarz & Company'
 contactTitle: Real Estate LAw
 company:
 network:

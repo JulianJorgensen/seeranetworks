@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Julie Tidiman
+fullname: Julie Tidiman
 contactTitle: Real Estate
 company:
 network:

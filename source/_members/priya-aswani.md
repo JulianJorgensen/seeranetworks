@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Priya Aswani
+fullname: Priya Aswani
 contactTitle: Assistant
 company: Jai Bhojwani
 network:

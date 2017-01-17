@@ -1,6 +1,6 @@
 ---
 active: true
-name: Francis Leung
+fullname: Francis Leung
 contactTitle: Real Estate
 company: Royal Pacific Realty
 network:

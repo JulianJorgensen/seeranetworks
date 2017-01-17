@@ -1,6 +1,6 @@
 ---
 active: true
-name: Taraneh Barzi
+fullname: Taraneh Barzi
 contactTitle:
 company:
 network:

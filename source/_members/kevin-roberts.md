@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Kevin Roberts
+fullname: Kevin Roberts
 contactTitle: Real Estate
 company: Remax All Points Realty
 network:

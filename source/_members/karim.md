@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Karim Dhanji
+fullname: Karim Dhanji
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

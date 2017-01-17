@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Michael Zhang
+fullname: Michael Zhang
 contactTitle: Real Estate
 company:
 network:

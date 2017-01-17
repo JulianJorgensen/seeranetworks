@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Ashley Smith
+fullname: Ashley Smith
 contactTitle: Real Estate
 company: Royal Lepage Klein Group
 network:

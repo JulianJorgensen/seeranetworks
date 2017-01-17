@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Pouya Ghazi
+fullname: Pouya Ghazi
 contactTitle: Real Estate
 company:
 network:

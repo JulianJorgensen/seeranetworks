@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Tyler Macdonald
+fullname: Tyler Macdonald
 contactTitle: Real Estate
 company: Century 21 Intown Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Maurice Yu
+fullname: Maurice Yu
 contactTitle: Real Estate
 company: Magsen Realty Inc
 network:

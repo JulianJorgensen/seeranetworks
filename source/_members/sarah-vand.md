@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Sarah Vand
+fullname: Sarah Vand
 contactTitle: Real Estate
 company: Sutton Group Seafair Realty
 network:

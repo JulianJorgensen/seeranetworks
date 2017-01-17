@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Teresa Colleen Triggiano
+fullname: Teresa Colleen Triggiano
 contactTitle: Real Estate
 company:
 network:

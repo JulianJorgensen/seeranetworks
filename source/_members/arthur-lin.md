@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Arthur Lin
+fullname: Arthur Lin
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

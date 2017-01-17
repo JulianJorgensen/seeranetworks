@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Andy Chu PREC
+fullname: Andy Chu PREC
 contactTitle: Real Estate
 company: Nu Stream Realty
 network:

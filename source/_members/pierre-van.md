@@ -1,6 +1,6 @@
 ---
 active: true
-name: Pierre Van
+fullname: Pierre Van
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

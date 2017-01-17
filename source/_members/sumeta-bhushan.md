@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Sumeta Bhushan
+fullname: Sumeta Bhushan
 contactTitle: Real Estate
 company:
 network:

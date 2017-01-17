@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: 'Shane D. Coblin'
+fullname: 'Shane D. Coblin'
 title: Litigation Attorney
 company: 'Kornfeld LLP'
 phoneOffice: '604-331-8300'

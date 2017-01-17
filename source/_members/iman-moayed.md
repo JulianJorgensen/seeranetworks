@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Iman Moayed
+fullname: Iman Moayed
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Alex Jopson
+fullname: Alex Jopson
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

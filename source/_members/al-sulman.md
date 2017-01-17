@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Al Suleman
+fullname: Al Suleman
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

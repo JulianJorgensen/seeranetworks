@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Sherman Lee
+fullname: Sherman Lee
 contactTitle: Real Estate
 company: Remax Westcoast
 network:

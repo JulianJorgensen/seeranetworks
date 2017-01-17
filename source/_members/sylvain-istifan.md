@@ -1,6 +1,6 @@
 ---
 active: true
-name: Sylvain Istifan
+fullname: Sylvain Istifan
 contactTitle: Real Estate
 company: Macdonald Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Alice Wong
+fullname: Alice Wong
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty- Coq
 network:

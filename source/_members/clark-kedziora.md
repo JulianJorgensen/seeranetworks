@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Clark Kedziora
+fullname: Clark Kedziora
 contactTitle: Real Estate
 company:
 network:

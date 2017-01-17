@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Matthew Douglas Chadwick
+fullname: Matthew Douglas Chadwick
 contactTitle: Real Estate
 company:
 network:

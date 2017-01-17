@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Rex Hua
+fullname: Rex Hua
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Alex Liu
+fullname: Alex Liu
 contactTitle: Real Estate
 company: Sutton Seafair Realty
 network:

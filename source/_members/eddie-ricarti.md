@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Eddie Ricarti
+fullname: Eddie Ricarti
 contactTitle: Real Estate
 company: Magsen Realty Inc.
 network:

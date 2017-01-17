@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Gary Terrado
+fullname: Gary Terrado
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

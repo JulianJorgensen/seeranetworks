@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Angie Liu
+fullname: Angie Liu
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

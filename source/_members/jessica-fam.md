@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Jessica Fam
+fullname: Jessica Fam
 contactTitle:
 company: Hanna Realty
 network:

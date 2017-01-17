@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Geoff Jarman PREC
+fullname: Geoff Jarman PREC
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

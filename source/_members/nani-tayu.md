@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Nani Tayu
+fullname: Nani Tayu
 contactTitle: Real Estate
 company: Magsen Pro Realty
 network:

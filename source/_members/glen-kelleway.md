@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Glen Kelleway
+fullname: Glen Kelleway
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

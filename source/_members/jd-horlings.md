@@ -1,6 +1,6 @@
 ---
 active: true
-name: JD Horlings
+fullname: JD Horlings
 contactTitle: Real Estate
 company: TN Realty
 network:

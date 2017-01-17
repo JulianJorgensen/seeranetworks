@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Marco Castoro
+fullname: Marco Castoro
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:

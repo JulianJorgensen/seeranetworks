@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Carol Lee
+fullname: Carol Lee
 contactTitle: Real Estate
 company: Homeland Realty
 network:

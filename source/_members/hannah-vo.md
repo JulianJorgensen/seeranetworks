@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Hannah Vo
+fullname: Hannah Vo
 contactTitle: Real Estate
 company:
 network:

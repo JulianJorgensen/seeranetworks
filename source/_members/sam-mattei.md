@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-name: Sam Mattei
+fullname: Sam Mattei
 contactTitle: Real Estate
 company: Royalty Group Realty
 network:
