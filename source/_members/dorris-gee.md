@@ -1,7 +1,11 @@
 ---
 active: true
 is_company: false
+<<<<<<< HEAD
 fullname: Dorris Gee
+=======
+fullname: Doris Gee
+>>>>>>> fe605b03195e5b343137aad41b55cd3cb637ebf8
 contactTitle: Real Estate
 company: Remax Central Realty
 network:

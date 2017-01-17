@@ -11,7 +11,7 @@ email: andychuprec@gmail.com
 image_path:
 color:
 website:
-profile_image_path:
+profile_image_path: /uploads/Web.jpg
 ---
 
 

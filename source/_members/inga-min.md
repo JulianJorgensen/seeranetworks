@@ -3,7 +3,7 @@ active: true
 is_company: false
 fullname: Inga Min
 contactTitle: Real Estate
-company:
+company: Remax Crest Realty
 network:
   - realestateagents
 phoneOffice: 604-506-5249

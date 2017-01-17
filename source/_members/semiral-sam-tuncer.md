@@ -1,17 +1,15 @@
 ---
 active: true
 is_company: false
-fullname: Lee Ann Stone
+fullname: Semiral (Sam) Tuncer
 contactTitle: Real Estate
-company: Sutton Group West Coast Realty
+company: Alliance First Realty- Van
 network:
   - realestateagents
-phoneOffice: 604-763-4704
-email: leeann@mustseelistings.com
+phoneOffice: 604-347-8707
+email: semiral@live.com
 image_path:
 color:
 website:
 profile_image_path: /images/person.png
 ---
-
-

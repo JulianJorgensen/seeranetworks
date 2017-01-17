@@ -3,7 +3,7 @@ active: true
 is_company: false
 fullname: Jason Chan
 contactTitle: Real Estate
-company:
+company: Macdonald Realty- Van
 network:
   - realestateagents
 phoneOffice: 604-721-8399

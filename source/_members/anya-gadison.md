@@ -1,13 +1,13 @@
 ---
 active: true
 is_company: false
-fullname: Wing Man (Mandy) Siu
+fullname: Anya Gadison
 contactTitle: Real Estate
-company:
+company: Team 3000 - North Van
 network:
   - realestateagents
-phoneOffice: 778-999-7040
-email: mandywingmansiu@gmail.com
+phoneOffice: 604-816-0735
+email: gadison.a@yahoo.ca
 image_path:
 color:
 website:

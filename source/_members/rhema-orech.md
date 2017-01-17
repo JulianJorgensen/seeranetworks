@@ -5,11 +5,11 @@ fullname: Richard Bishop
 contactTitle: Real Estate
 company: New Coast Realty
 network:
-  - Real Estate
+  - realestateagents
 phoneOffice: 604-377-8023
 email: rolivelk418@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Richard-Web.jpg
 ---

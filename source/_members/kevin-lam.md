@@ -11,7 +11,7 @@ email: larissa@allvancouvergroup.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Head Shot larissa.jpeg
 ---
 
 

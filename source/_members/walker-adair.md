@@ -4,13 +4,13 @@ fullname: Walker Adair
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
 network:
-  - Real Estate
+  - realestateagents
 phoneOffice: 778-952-4247
 email: walkerjadair@gmail.com
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/Headshot walker.jpg
 ---
 
 

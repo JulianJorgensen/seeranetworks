@@ -11,7 +11,7 @@ email: mohamed@mansourgroup.ca
 image_path:
 color:
 website:
-profile_image_path: /images/person.png
+profile_image_path: /uploads/headshot mansar.jpg
 ---
 
 
