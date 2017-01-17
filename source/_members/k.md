@@ -1,11 +1,10 @@
 ---
 active: true
 is_company: false
-name: k
+name: Julian Jorgensen
 contactTitle:
 company:
 network:
-  -
 phoneOffice:
 email:
 image_path:
