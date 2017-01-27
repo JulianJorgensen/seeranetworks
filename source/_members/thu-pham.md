@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: false
-fullname: Tiann Pham
+fullname: Thu Pham
 contactTitle: Real Estate
 company: Royal LePage Klein Group
 network:
