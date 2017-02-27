@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Karen Louise Chan
 contactTitle: Real Estate
