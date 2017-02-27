@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Gina Chung
 contactTitle: Real Estate
