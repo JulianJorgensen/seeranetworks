@@ -1,6 +1,6 @@
 ---
-active: true
-is_company: true
+active: false
+is_company: false
 fullname: Stella Price PREC
 contactTitle: 'Stella Price & Associates'
 company: Sutton Grp West Coast Realty
