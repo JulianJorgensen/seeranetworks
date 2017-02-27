@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Esther Loo
 contactTitle: Assistant
