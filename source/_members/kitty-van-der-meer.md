@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Kitty Van Der Meer
 contactTitle: Real Estate
