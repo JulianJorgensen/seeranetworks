@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Larrie Forbes
 contactTitle: Real Estate
