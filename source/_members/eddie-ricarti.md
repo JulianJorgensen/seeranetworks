@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Eddie Ricarti
 contactTitle: Real Estate
