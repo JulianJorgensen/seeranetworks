@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Ruby Banga
 contactTitle: Real Estate
