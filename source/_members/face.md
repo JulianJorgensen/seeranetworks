@@ -1,11 +1,10 @@
 ---
-active: true
+active: false
 is_company: false
 fullname:
 contactTitle:
 company:
 network:
-  -
 phoneOffice:
 email:
 image_path:
