@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 fullname: Rick Kao
 contactTitle: Real Estate
 company: Royal First Realty
