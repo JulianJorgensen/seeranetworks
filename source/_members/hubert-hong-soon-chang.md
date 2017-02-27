@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Hubert (Hong Soon) Chang
 contactTitle: Real Estate
