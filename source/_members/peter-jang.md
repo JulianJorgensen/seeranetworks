@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 fullname: Peter Jang
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
