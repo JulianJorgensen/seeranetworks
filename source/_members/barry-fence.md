@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Barry Fence
 contactTitle: Real Estate
