@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 fullname: Walker Adair
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
