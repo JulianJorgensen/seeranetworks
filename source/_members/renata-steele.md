@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 fullname: Renata Steele
 contactTitle: Real Estate
 company: Sutton Group West Coast Realty
