@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Robert Phillips
 contactTitle: Real Estate
