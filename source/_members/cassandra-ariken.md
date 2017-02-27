@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 fullname: Cassandra Ariken
 contactTitle: Real Estate
 company: Royal Lepage
