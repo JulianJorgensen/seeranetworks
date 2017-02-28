@@ -1,6 +1,6 @@
 ---
 active: true
-is_company: false
+is_company: true
 fullname: 'Schwarz & Company'
 contactTitle: Real Estate LAw
 company:
