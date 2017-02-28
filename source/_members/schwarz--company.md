@@ -2,8 +2,8 @@
 active: true
 is_company: true
 fullname: 'Schwarz & Company'
-contactTitle: Real Estate LAw
-company:
+contactTitle: Real Estate Law
+company: 'Schwarz & Company'
 network:
   - attorney
 phoneOffice: 604-942-8880
