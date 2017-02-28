@@ -52,7 +52,7 @@
 
   <ul class="nav">
     {% for item in site.data.nav %}
-      {% if item.url == "network" %}
+      {% if item.url == "/network/" %}
         <li class="accordion" {% if page.layout == 'category' %}class="active"{% endif %}>
           <a class="accordion-toggle{% if page.layout == 'category' %} active{% endif %}" href="javascript:void(0);">Networking companies <span class="chevron"></span></a>
           <div class="accordion-content {% if page.layout == 'category' %}active{% endif %}">
