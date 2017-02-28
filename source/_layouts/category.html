@@ -7,7 +7,7 @@ layout: default
 
 <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit partners</a></p>
 
-{% assign members = site.members | sort: "name" %}
+{% assign members = site.members | where:'category', pageCategory | sort: "name" %}
 {% assign pageCategory = page.id | downcase | replace:"/network/","" %}
 
 <ul class="partner-category-group">
