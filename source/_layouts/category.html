@@ -7,13 +7,13 @@ layout: default
 
 <p><a class="btn btn-lg btn-success btn-block editor-link" href="cloudcannon:collections/_members/">Add/edit partners</a></p>
 
-{% assign members = site.members | where:'category', pageCategory | sort: "name" %}
+{% assign members = site.members | sort: "name" %}
 {% assign pageCategory = page.id | downcase | replace:"/network/","" %}
 
 <ul class="partner-category-group">
   {% for item in members %}
     {% for category in item.network %}
-      {% if item.is_company and item.active and item.category == pageCategory %}
+      {% if item.is_company and item.active and category == pageCategory %}
       <li class="partner" style="border-color: {{ item.color }};">
         <div class="partner-bg" style="background-color: {{ item.color }};"></div>
         <div class="row">
