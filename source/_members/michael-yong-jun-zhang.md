@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 fullname: Michael (Yong Jun) Zhang
 contactTitle: Real Estate
 company: New Coast Realty
