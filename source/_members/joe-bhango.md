@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 fullname: Joe Bhango
 contactTitle: Real Estate
 company: Sutton Centre Realty
