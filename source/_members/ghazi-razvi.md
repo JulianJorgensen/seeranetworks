@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Ghazi Razvi
 contactTitle: Real Estate
