@@ -1,7 +1,7 @@
 ---
 active: true
-is_company: true
-fullname:
+is_company: false
+fullname: Miguel Solution
 contactTitle: Miguel Solution General Contractor
 company: Mz Solutions Ltd
 network:
