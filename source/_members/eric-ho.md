@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Eric (Yu Hin) Ho
 contactTitle: Real Estate
