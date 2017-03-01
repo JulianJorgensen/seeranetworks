@@ -1,9 +1,9 @@
 ---
 active: false
 is_company: false
-fullname: Hubert (Hong Soon) Chang
+fullname: Hubert Chang
 contactTitle: Real Estate
-company: Dexter
+company: Sutton Group West Coast Realty
 network:
   - realestateagents
 phoneOffice: 604-537-3956
