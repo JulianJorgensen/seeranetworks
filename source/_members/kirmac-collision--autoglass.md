@@ -2,7 +2,7 @@
 active: true
 is_company: true
 fullname: Kirmac Collision Autoglass
-contactTitle:
+contactTitle: Sean McIntosh Regional Manager
 company: Kirmac Collision Autoglass
 network:
   - cardetails
