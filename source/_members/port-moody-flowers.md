@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 is_company: false
 fullname: Celia Chiang
 contactTitle: Owner
