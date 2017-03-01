@@ -1,9 +1,9 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Gary Terrado
 contactTitle: Real Estate
-company: Sutton Grp West Coast Realty
+company: Magsen Realty
 network:
   - realestateagents
 phoneOffice: 604-773-5021
