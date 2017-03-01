@@ -11,5 +11,5 @@ email: mcheema@mclmotorcars.com
 image_path: /uploads/Bentley Vancouver.png
 color: '#101010'
 website: www.bentleymotors.com
-profile_image_path: /images/person.png
+profile_image_path: /download.png
 ---
