@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 fullname: JD Horlings
 contactTitle: Real Estate
 company: TN Realty
