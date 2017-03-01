@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Marco Castoro
 contactTitle: Real Estate
