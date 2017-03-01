@@ -1,4 +1,4 @@
 ---
-title: Property Management
+title: Trades
 category: realestate
 ---
