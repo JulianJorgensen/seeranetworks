@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: true
-fullname:
+fullname: Blooming Buds Florist
 contactTitle: '#220-3025 Lougheed Hwy, Coq'
 company: Blooming Buds Florist
 network:
