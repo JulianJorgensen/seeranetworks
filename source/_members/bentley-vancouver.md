@@ -2,7 +2,7 @@
 active: true
 is_company: true
 fullname: Bentley Vancouver
-contactTitle: Mark Cheema
+contactTitle: Mark Cheema Sales Executive
 company: Bentley Vancouver
 network:
   - dealerships
