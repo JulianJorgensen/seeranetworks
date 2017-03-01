@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Clark Kedziora
 contactTitle: Real Estate
