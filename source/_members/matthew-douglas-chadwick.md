@@ -3,7 +3,7 @@ active: true
 is_company: false
 fullname: Matthew Douglas Chadwick
 contactTitle: Real Estate
-company:
+company: Remax Lifestyles Realty
 network:
   - realestateagents
 phoneOffice: 604-928-4281
