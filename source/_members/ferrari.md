@@ -1,6 +1,6 @@
 ---
-active: true
-is_company: true
+active: false
+is_company: false
 fullname: Mark Harrison
 contactTitle: Sales Manager
 company: Ferrari Maserati of Vancouver
