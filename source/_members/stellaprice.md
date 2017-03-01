@@ -1,6 +1,6 @@
 ---
 active: true
-is_company: false
+is_company: true
 fullname:
 contactTitle: Stella Price Personal Real Estate Corporation
 company: Sutton Grp West Coast Realty
