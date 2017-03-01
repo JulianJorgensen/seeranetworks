@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Jacquie McCarnan
 contactTitle: Real Estate
