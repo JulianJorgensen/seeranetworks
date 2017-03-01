@@ -1,14 +1,14 @@
 ---
 active: true
-is_company: false
+is_company: true
 fullname:
-contactTitle:
-company:
+contactTitle: CKwik Kopy Printing ( KKP)
+company: Jasprit Chona Owner
 network:
-  -
-phoneOffice:
-email:
-image_path:
+  - printing-companies
+phoneOffice: 604-444-4452
+email: info@burnaby.kkpcanada.ca
+image_path: /uploads/KKP_divisionofkwikkopy.png
 color:
 website:
 profile_image_path: /images/person.png
