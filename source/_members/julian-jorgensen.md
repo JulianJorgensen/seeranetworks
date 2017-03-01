@@ -1,6 +1,6 @@
 ---
 active: true
-is_company: false
+is_company: true
 fullname: Julian Jorgensen
 contactTitle: UX Designer
 company: JORGENSEN
