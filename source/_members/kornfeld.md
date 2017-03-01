@@ -2,7 +2,7 @@
 active: true
 is_company: true
 fullname: Shane D. Coblin
-title: Litigation Attorney
+title: Shane D. Coblin Litigation Attorney
 company: Kornfeld LLP
 phoneOffice: 604-331-8300
 email: scoblin@kornfeldllp.com
