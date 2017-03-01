@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: true
-fullname:
+fullname: Stella Price
 contactTitle: Stella Price Personal Real Estate Corporation
 company: Sutton Group West Coast Realty
 phoneCell: 604-833-7725
