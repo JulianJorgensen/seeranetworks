@@ -1,7 +1,7 @@
 ---
 active: true
 is_company: true
-fullname:
+fullname: Jasprit Chona
 contactTitle: Kwik Kopy Printing ( KKP)
 company: Jasprit Chona Owner
 network:
