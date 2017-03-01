@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 fullname: Jesusa Durana
 contactTitle: Real Estate
 company: Sutton Grp West Coast Realty
