@@ -1,13 +1,13 @@
 ---
 active: true
-is_company: false
+is_company: true
 fullname:
-contactTitle:
-company:
+contactTitle: Miguel Solution General Contractor
+company: Mz Solutions Ltd
 network:
-  -
-phoneOffice:
-email:
+  - propertymanagement
+phoneOffice: 604-379-9144
+email: mz_solution@outlook.com
 image_path:
 color:
 website:
