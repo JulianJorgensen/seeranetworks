@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 is_company: false
 fullname: Antonina Tihanenoka
 contactTitle: Real Estate
