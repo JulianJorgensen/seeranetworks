@@ -9,7 +9,7 @@ network:
 phoneOffice: 604-444-4452
 email: info@burnaby.kkpcanada.ca
 image_path: /uploads/KKP_divisionofkwikkopy.png
-color:
-website:
+color: '#11b4ce'
+website: www.burnaby.kkpcanada.ca
 profile_image_path: /images/person.png
 ---
