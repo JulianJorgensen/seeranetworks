@@ -1,13 +1,13 @@
 ---
 active: true
-is_company: false
-fullname:
-contactTitle:
+is_company: true
+fullname: Damon Evans
+contactTitle: Real Estate Photographer
 company:
 network:
-  -
-phoneOffice:
-email:
+  - photographer
+phoneOffice: 604-202-0513
+email: damonjayevans@gmail.com
 image_path:
 color:
 website:
