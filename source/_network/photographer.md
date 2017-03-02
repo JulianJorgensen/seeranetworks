@@ -1,4 +1,4 @@
 ---
 title: Photographer
-category:
+category: 'Marketing'
 ---

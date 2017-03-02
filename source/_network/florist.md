@@ -1,4 +1,4 @@
 ---
 title: Florist
-category: Events
+category: Marketing
 ---

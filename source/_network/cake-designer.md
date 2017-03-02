@@ -1,4 +1,4 @@
 ---
 title: Cake Designer
-category: 'Events'
+category: 'Marketing'
 ---
