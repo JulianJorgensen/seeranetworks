@@ -1,4 +1,4 @@
 ---
 title: Interior designers
-category: 'Marketing'
+category: 'Home'
 ---
