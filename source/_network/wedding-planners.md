@@ -1,4 +1,4 @@
 ---
 title: Wedding Planners
-category: Marketing
+category: 'Events & Occasions'
 ---
