@@ -1,5 +1,5 @@
 ---
 title: Financial institution
-category: finance
+category: Finance
 ---
 

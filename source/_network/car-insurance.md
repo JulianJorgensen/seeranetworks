@@ -1,4 +1,4 @@
 ---
 title: Car insurance
-category: automobile
+category: Automobile
 ---

@@ -1,4 +1,4 @@
 ---
 title: Home Measures
-category: realestate
+category: Real Estate
 ---

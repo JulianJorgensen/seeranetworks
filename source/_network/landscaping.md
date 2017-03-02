@@ -1,4 +1,4 @@
 ---
 title: Landscaping
-category: interiordesign
+category: Interior Design
 ---

@@ -1,4 +1,4 @@
 ---
 title: Real Estate Advisors
-category: realestate
+category: Real Estate
 ---

@@ -1,5 +1,4 @@
 ---
 title: Florist
-category: events
+category: Events
 ---
-
