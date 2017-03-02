@@ -11,5 +11,5 @@ email: bloomingbuds@hotmail.com
 image_path: /uploads/Blooming Buds Florist.jpg
 color: '#9c0ce6'
 website: www.bloomingbuds.ca
-profile_image_path: /Blooming Buds Florist.jpg
+profile_image_path: /uploads/blooming-buds-florist.jpg
 ---
