@@ -1,5 +1,5 @@
 ---
 title: Accountant
-category: business
+category: finance
 ---
 
