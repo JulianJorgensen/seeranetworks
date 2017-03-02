@@ -16,8 +16,6 @@
                   <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
                   <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
                     {% for subcategory in site.network %}
-                      Category: {{ subcategory.category }}<br>
-                      categoryTitle: {{ categoryTitle }}<br>
                       {% if subcategory.category == category.title %}
                         <li {% if subcategory.title == page.title %}class="active"{% endif %}><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
                       {% endif %}
@@ -68,7 +66,9 @@
                   <a class="accordion-toggle{% if page.category == categoryTitle %} active{% endif %}">{{ category.title }} <span class="chevron"></span></a>
                   <ul class="accordion-content {% if page.category == categoryTitle %}active{% endif %}">
                     {% for subcategory in site.network %}
-                      {% if subcategory.category == categoryTitle %}
+                      Category: {{ subcategory.category }}<br>
+                      categoryTitle: {{ categoryTitle }}<br>
+                      {% if subcategory.category == category.title %}
                         <li {% if subcategory.title == page.title %}class="active"{% endif %}><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
                       {% endif %}
                     {% endfor %}
