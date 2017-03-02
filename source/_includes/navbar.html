@@ -18,7 +18,7 @@
                     {% for subcategory in site.network %}
                       Category: {{ subcategory.category }}<br>
                       categoryTitle: {{ categoryTitle }}<br>
-                      {% if subcategory.category == categoryTitle %}
+                      {% if subcategory.category == category.title %}
                         <li {% if subcategory.title == page.title %}class="active"{% endif %}><a href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
                       {% endif %}
                     {% endfor %}
