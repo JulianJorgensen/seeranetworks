@@ -7,10 +7,10 @@ network:
   - realestateagents
 phoneOffice: 604-418-3939
 email: fleung50@gmail.com
-image_path:
+image_path: /uploads/Head Shot (Francis Leung) web.jpg
 color:
 website:
-profile_image_path: /uploads/Head Shot (Francis Leung) web.jpg
+profile_image_path:
 ---
 
 

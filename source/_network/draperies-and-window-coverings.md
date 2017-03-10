@@ -1,4 +1,4 @@
 ---
-title: Draperies & window coverings
-category: Marketing
+title: 'Draperies & window coverings'
+category: Home
 ---
