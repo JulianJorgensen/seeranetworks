@@ -6,3 +6,16 @@
   url: /contact-us/
 - title: Blog
   url: /blog/
+- title: Find a house specialist
+  url: /house-specialist/
+  subitems:
+    - title: Buying a house
+      url: /house-specialist/
+    - title: Selling a house
+      url: /selling-house-specialist/
+- title: Find a condo specialist
+  url: /condo-specialist/
+- title: Find a presale specialist
+  url: /presale-specialist/
+- title: Find a assignment specialist
+  url: /assignment-specialist/

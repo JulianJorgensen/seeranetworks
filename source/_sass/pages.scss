@@ -20,6 +20,18 @@
     }
   }
 
+  .intro-paragraph{
+    margin-left: 400px;
+    margin-right: 200px;
+    margin-top: 50px;
+  }
+
+  .home-footer-text{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+  }
+
   .seera-logo-blue{
     display: none;
   }
@@ -31,6 +43,10 @@
     .seera-logo-blue{
       display: block;
     }
+  }
+
+  .main-wrapper{
+    flex: 0 0 100%;
   }
 
   .sidebar-left{
@@ -111,5 +127,23 @@
 .page-contact{
   .well{
     font-size: 1.8rem;
+  }
+}
+
+.page-form-page{
+  .page-intro{
+    margin-bottom: 30px;
+  }
+  .footer-images{
+    margin-top: 60px;
+    img{
+      width: 100%;
+    }
+  }
+  .top-note{
+    position: absolute;
+    top: 60px;
+    right: 30px;
+    max-width: 300px;
   }
 }
