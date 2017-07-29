@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Find a house specialist
-permalink: /house-specialist/
+title: Find a condo specialist
+permalink: /condo-specialist/selling/
 group: navigation
 weight: 5
 class: form-page
@@ -12,30 +12,24 @@ class: form-page
 <form method="post" action="/thanks/" class="form">
   <div class="row">
     <input type="hidden" name="_to" value="info@seeranetworks.com" />
-    <input type="hidden" name="_subject" value="New House Specialist request" />
+    <input type="hidden" name="_subject" value="New Condo Selling Specialist request" />
     <input type="text" name="_gotcha" style="display:none" />
     <div class="col-lg-6">
       {% include contact-form.html %}
     </div>
     <div class="col-lg-6">
+        <h4>House address</h4>
         <div class="form-group">
-          <label for="name">Specific Area</label>
-          <input type="text" class="form-control input-lg" id="name" name="name" placeholder="" />
+          <label for="name">Unit # / House #</label>
+          <input type="text" class="form-control input-lg" id="unit" name="unit" placeholder="" />
         </div>
         <div class="form-group">
-          <label for="email">Specific Sub area (if important)</label>
-          <input type="email" class="form-control input-lg" id="email" name="_replyto" placeholder="" />
+          <label for="email">Street</label>
+          <input type="email" class="form-control input-lg" id="street" name="street" placeholder="" />
         </div>
         <div class="form-group">
-          <label for="name">Preferred Spoken Language</label>
-          <input type="phone" class="form-control input-lg" id="phone" name="phone" placeholder="" />
-        </div>
-        <div class="form-group">
-          <label for="name">First time Home buyer?</label>
-          <div>
-            <input type="radio" id="first-time-yes" name="first-time" value="yes" required /><label for="first-time-yes">Yes</label>
-            <input type="radio" id="first-time-no" name="first-time" value="no" required /><label for="first-time-no">No</label>
-          </div>
+          <label for="name">City / Town</label>
+          <input type="phone" class="form-control input-lg" id="city" name="city" placeholder="" />
         </div>
       </div>
     </div>

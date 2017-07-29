@@ -12,10 +12,25 @@
     - title: Buying a house
       url: /house-specialist/
     - title: Selling a house
-      url: /selling-house-specialist/
+      url: /house-specialist/selling/
 - title: Find a condo specialist
   url: /condo-specialist/
+  subitems:
+    - title: Buying a condo
+      url: /condo-specialist/
+    - title: Selling a condo
+      url: /condo-specialist/selling/
 - title: Find a presale specialist
   url: /presale-specialist/
+  subitems:
+    - title: Buying a presale
+      url: /presale-specialist/
+    - title: Selling a presale
+      url: /presale-specialist/selling/
 - title: Find a assignment specialist
   url: /assignment-specialist/
+  subitems:
+    - title: Buying an assignment
+      url: /assignment-specialist/
+    - title: Selling an assignment
+      url: /assignment-specialist/selling/

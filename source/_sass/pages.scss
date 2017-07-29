@@ -143,6 +143,11 @@
     img{
       width: 100%;
     }
+    div{
+      @media (max-width: $screen-md){
+        margin-bottom: 15px;
+      }
+    }
   }
   .top-note{
     position: absolute;

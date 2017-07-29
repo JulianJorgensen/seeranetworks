@@ -77,13 +77,15 @@
         </li>
       {% else %}
         {% if item.subitems %}
-          <li class="accordion {% if page.url == item.url %}active{% endif %}">
-            <a class="accordion-toggle{% if page.url == item.url %} active{% endif %}" href="javascript:void(0);">{{ item.title }}</a>
-            <div class="accordion-content {% if page.url == item.url %}active{% endif %}">
+          <li class="accordion">
+            <a class="accordion-toggle" href="javascript:void(0);">{{ item.title }}</a>
+            {% assign pageGroup = page.url | split:'/' %}
+            {% assign itemUrl = item.url | split:'/' %}
+            <div class="accordion-content {% if pageGroup[1] == itemUrl[1] %}active{% endif %}">
               <ul>
                 {% for subitem in item.subitems %}
-                  <li class="accordion {% if subitem.url == item.url %}active{% endif %}">
-                    <a href="{{ subitem.url }}" class="accordion-toggle{% if page.url == subitem.url %} active{% endif %}">{{ subitem.title }}</a>
+                  <li class="accordion {% if page.url == subitem.url %} active{% endif %}">
+                    <a href="{{ subitem.url }}">{{ subitem.title }}</a>
                   </li>
                 {% endfor %}
               </ul>
