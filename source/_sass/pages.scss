@@ -60,6 +60,10 @@
         color: $brand-primary;
       }
     }
+    .sidebar-left-inner .accordion-toggle.active,
+    .sidebar-left-inner .accordion .accordion.active > a{
+      color: $brand-primary;
+    }
   }
 }
 
