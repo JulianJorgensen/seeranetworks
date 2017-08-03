@@ -34,3 +34,10 @@
       url: /assignment-specialist/
     - title: Selling an assignment
       url: /assignment-specialist/selling/
+- title: Find a townhome specialist
+  url: /townhome-specialist/
+  subitems:
+    - title: Buying a townhome
+      url: /townhome-specialist/
+    - title: Selling a townhome
+      url: /townhome-specialist/selling/
